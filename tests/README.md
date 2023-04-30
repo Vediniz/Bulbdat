@@ -5,13 +5,13 @@
 
 - Ambiente virtual: Para criar um ambiente virtual vamos usar o comando no terminal, dentro da pasta de testes.
     
-        python -m venv <nome_do_ambiente_virtual>
+        python -m venv venv
 
     Para ativar o ambiente virtual, considerando que ainda esteja no diretorio de testes
 
-        Linux: source <nome_ambiente_virtual>/bin/activate
+        Linux: source venv/bin/activate
 
-        Windows: <nome_ambiente_virtual>/Scripts/activate.bat
+        Windows: venv/Scripts/activate.bat
     
     
 
