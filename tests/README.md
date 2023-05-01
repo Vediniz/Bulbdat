@@ -15,18 +15,23 @@
     
     
 
-    Para utilizar os testes de front-end é preciso que os drivers de navegador estejam mapeados nas variaveis do sistema, no nosso caso, vamos utilizar o ambiente virtual e mapear nossos webdrivers nele. 
+    Para utilizar os testes de front-end é preciso que os drivers de navegador estejam mapeados nas variaveis do sistema, no nosso caso, vamos utilizar o ambiente virtual e mapear nossos webdrivers nele. Primeiro vamos adicionar o webdrivermanager. 
+
+        pip install webdrivermanager
+
+    E em seguida, adicione o webdriver para o seu navegador.
 
     <br>
 
     **Chrome:** 
+        
+        webdrivermanager chrome --linkpath venv/bin/
 
-        pip install webdrivermanager webdrivermanager chrome --linkpath  <caminho_do_diretorio>/bin
 
     **Firefox:**
 
-        pip install webdrivermanager webdrivermanager firefox --linkpath <caminho_do_diretorio>/bin
-    
+        webdrivermanager firefox --linkpath venv/bin/
+
     Note que mediante o sistema operacional termo "bin" será substituido por "Scripts"
 
 <br>
