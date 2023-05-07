@@ -1,5 +1,6 @@
 let login = document.getElementById("loginView");
 let signup = document.getElementById("signUpView");
+let main = document.querySelector("main");
 
 let btnLogin = document.getElementById("btnLogin");
 let btnSignup = document.getElementById("btnSignUp");
@@ -10,16 +11,12 @@ btnLogin.onclick = function () {
 
 btnSignup.onclick = function () {
     signup.style.display = "flex";
+    login.style.display = "none";
 }
 
-login.blur(function () {
-    setTimeout(() => {
-        login.style.display = "none";
-    }, 130)
-});
-
-signup.blur(function () {
-    setTimeout(() => {
-        signup.style.display = "none";
-    }, 130)
-});
+main.addEventListener('click', function(event) {
+    if (!signup.contains(event.target) || !login.contains(event.target)) {
+      signup.style.display = 'none';
+      login.style.display = 'none';
+    }
+  });

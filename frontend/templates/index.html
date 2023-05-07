@@ -11,36 +11,37 @@
     <header>
         <nav>
             <a href="#">Bulbdat</a>
-            <!-- <a id="btnLogin" href="#">Login</a> -->
             <button id="btnLogin">Login</button>
         </nav>
     </header>
-    <main>
-        <section id="loginView">
-            <div class="img">
-                <img src="../static/assets/loginSign.png">
-            </div>
-            <form action="login" method="POST">
+    <section id="loginView">
+        <div class="img">
+            <img src="../static/assets/loginSign.png">
+        </div>
+        <div class="form">
+            <form id="formLogin" action="login" method="POST">
                 <h1>Login</h1>
                 <input type="text" name="email" placeholder="Email">
                 <input type="password" name="password" placeholder="Senha">
                 <button type="submit">Login</button>
-                <a class="btnSignUp" href="#">Sign Up</a>
             </form>
-        </section>
-        <section id="signUpView" style="display: none;">
-            <div class="img">
-                <img src="../static/assets/loginSign.png">
-            </div>
-            <form action="signup" method="POST">
-                <h1>Cadastro</h1>
-                <input type="text" name="username" placeholder="Nome">
-                <input type="text" name="email" placeholder="Email">
-                <input type="password" name="password" placeholder="Senha">
-                <input type="password" name="password2" placeholder="Confirme a senha">
-                <button type="submit">Cadastrar</button>
-            </form>
-        </section>
+            <button id="btnSignUp">Sign up</button>
+        </div>
+    </section>
+    <section id="signUpView" style="display: none;">
+        <div class="img">
+            <img src="../static/assets/loginSign.png">
+        </div>
+        <form action="signup" method="POST">
+            <h1>Cadastro</h1>
+            <input type="text" name="username" placeholder="Nome">
+            <input type="text" name="email" placeholder="Email">
+            <input type="password" name="password" placeholder="Senha">
+            <input type="password" name="password2" placeholder="Confirme a senha">
+            <button type="submit">Cadastrar</button>
+        </form>
+    </section>
+    <main>
         <section class="introduction">
             <h1>Controle <br> seus gastos <br> de energia <br> com Bulbdat!</h1>
             <img src="../static/assets/1.png">
@@ -74,6 +75,6 @@
         <p>Copyright &#169 2023 Bulbdat. Todos os direitos reservados.</p>
     </footer>
 
-    <script src="{{ url_for('static', filename='main.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
 </body>
 </html>
