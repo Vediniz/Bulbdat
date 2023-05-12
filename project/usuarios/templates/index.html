@@ -1,0 +1,84 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bulbdat</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="#">Bulbdat</a>
+            <button id="btnLogin">Login</button>
+        </nav>
+    </header>
+    <section id="loginView">
+        <div class="img">
+            <img src="../static/img/loginSign.png">
+        </div>
+        <div class="form">
+            <form id="formLogin" action="login" method="POST">
+                <h1>Login</h1>
+                <input type="text" name="email" placeholder="Email">
+                <input type="password" name="password" placeholder="Senha">
+                <button type="submit">Login</button>
+            </form>
+            <button id="btnSignUp">Sign up</button>
+        </div>
+    </section>
+
+    <section id="signUpView" style="display: none;">
+        <div class="img">
+            <img src="../static/img/loginSign.png">
+        </div>
+        <form method="post" action="{% url 'singUp' %}">
+            {% csrf_token %}
+            <h1>Cadastro</h1>
+            <input type="text" name="username" placeholder="Nome">
+            <input type="text" name="email" placeholder="Email">
+            <input type="password" name="password" placeholder="Senha">
+            <input type="password" name="password2" placeholder="Confirme a senha">
+            <button type="submit">Cadastrar</button>
+        </form>
+    </section>
+
+    <main>
+        <section class="introduction">
+            <h1>Controle <br> seus gastos <br> de energia <br> com Bulbdat!</h1>
+            <img src="../static/img/1.png">
+        </section>
+        <section class="features">
+            <div class="info">
+                <div class="circleInfo">
+                    <img src="../static/img/feat1.png">
+                </div>
+                <p>Crie ambientes personalizados <br> com o Bulbdat e <br> controle sua iluminação <br> de forma fácil e inteligente.</p>
+            </div>
+            <div class="info">
+                <div class="circleInfo">
+                    <img src="../static/img/feat2.png">
+                </div>
+                <p>Tenha controle total <br> sobre seu consumo de energia <br> em cada cômodo da casa.</p>
+            </div>
+            <div class="info">
+                <div class="circleInfo">
+                    <img src="../static/img/feat3.png">
+                </div>
+                <p>O cadastro de dispositivos <br> com o Bulbdat é <br> a chave para um gerenciamento <br> eficiente de energia.</p>
+            </div>
+        </section>
+        <section class="calculator">
+            <img src="../static/img/calc.png">
+            <p>Economize na conta de luz com a calculadora de gastos <br> de energia do Bulbdat, uma ferramenta simples e eficiente.</p>
+        </section>
+    </main>
+    <footer>
+        <p>Copyright &#169 2023 Bulbdat. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="{% static 'js/script.js' %}"></script>
+</body>
+</html>
