@@ -1,0 +1,38 @@
+{% block content %}
+
+{% if form.errors %}
+<p>Your username and password didn't match. Please try again.</p>
+{% endif %}
+
+{% if next %}
+{% if user.is_authenticated %}
+<p>Your account doesn't have access to this page. To proceed,
+    please login with an account that has access.</p>
+{% else %}
+<p>Please login to see this page.</p>
+{% endif %}
+{% endif %}
+
+<section id="loginView" style="display: none;">
+    <div class="img">
+        <img src="../static/img/loginSign.png">
+    </div>
+    <form method="post" action="{% url 'login' %}">
+        {% csrf_token %}
+        <div class="close" onclick="closeWindow()">x</div>
+
+
+        <h1>Login</h1>
+        <input id="username-field" name="username" type="text" />
+        <input id="password-field" name="password" type="password" />
+        <button type="submit" value="login">Login</button>
+        <hr>
+        <button type="button" id="btnSignup">Cadastrar</button>
+        <input type="hidden" name="next" value="{{ next }}">
+        <p><a href="{% url 'password_reset' %}" style="color: #f9bc60">Esqueceu a senha?</a></p>
+    </form>
+</section>
+
+{# Assumes you setup the password_reset view in your URLconf #}
+
+{% endblock %}

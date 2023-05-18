@@ -1,0 +1,29 @@
+/* Reset SCSS */
+
+$box-sizing: border-box;
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: $box-sizing;
+}
+
+body {
+  font-size: 1rem;
+  line-height: 1;
+  font-family: Helvetica, Arial, sans-serif
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+:focus {
+  outline: 0;
+}
+
+/* End of Reset SCSS */
+

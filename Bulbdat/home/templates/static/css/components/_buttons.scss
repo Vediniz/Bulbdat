@@ -1,0 +1,17 @@
+@use '../utils/variables';
+
+button {
+    border: none;
+    color: variables.$button-text;
+    background-color: variables.$button;
+    border-radius: 10px;
+    font-size: large;
+    padding: 10px 5px;
+    width: 100px;
+
+    &:hover {
+        background-color: darken(variables.$button, 5%);
+        color: variables.$card-headline;
+        cursor: pointer;
+    }
+}

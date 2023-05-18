@@ -1,0 +1,29 @@
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    height: 100%;
+
+    input {
+        font-size: large;
+        width: 80%;
+        height: 40px;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 30px;
+        border: none;
+        box-shadow: 0px -4px 0px 2px #0f3433;
+        background-color: variables.$form-input;
+        color: variables.$label-placeholder;
+
+        &::placeholder {
+            color: variables.$label-placeholder;
+        }
+    }
+
+    button {
+        width: 80%;
+        border-radius: 30px;
+    }
+}
