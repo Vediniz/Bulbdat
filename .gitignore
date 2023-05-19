@@ -4,5 +4,5 @@ venv/
 *output.xml
 *report.html
 __pycache__/
-venv/
+.venv/
 migrations/
