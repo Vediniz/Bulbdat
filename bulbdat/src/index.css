@@ -1,0 +1,343 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/* Reset SCSS */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1rem;
+  line-height: 1;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+:focus {
+  outline: 0;
+}
+
+/* End of Reset SCSS */
+button {
+  border: none;
+  color: #001e1d;
+  background-color: #f9bc60;
+  border-radius: 10px;
+  font-size: large;
+  padding: 10px 5px;
+  width: 100px;
+}
+button:hover {
+  background-color: #f8b247;
+  color: #fffffe;
+  cursor: pointer;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}
+form input {
+  font-size: large;
+  width: 80%;
+  height: 40px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 30px;
+  border: none;
+  box-shadow: 0px -4px 0px 2px #0f3433;
+  background-color: #fffffe;
+  color: #004643;
+}
+form input::-moz-placeholder {
+  color: #004643;
+}
+form input::placeholder {
+  color: #004643;
+}
+form button {
+  width: 80%;
+  border-radius: 30px;
+}
+
+header {
+  width: 100%;
+  padding: 10px 0;
+  border-bottom: 1px solid #000;
+  position: relative;
+  top: 0;
+}
+header nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0 100px;
+}
+header nav a {
+  text-decoration: none;
+  color: #001e1d;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 10px;
+}
+
+main {
+  width: 100%;
+  padding: 0 0 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+main section {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+}
+main .introduction {
+  display: flex;
+  height: 70vh;
+  font-size: 1.5rem;
+  margin: 5vh 0;
+}
+main .introduction h1 {
+  width: 40%;
+  text-align: center;
+  margin-left: 10%;
+}
+main .introduction img {
+  width: 60%;
+  height: auto;
+  margin: 10px;
+}
+main .introduction .backgroundImg {
+  position: absolute;
+  right: 0;
+  width: 55%;
+  height: 50%;
+  background-color: #f9bc60;
+  border-radius: 30px 0 0 30px;
+  z-index: -1;
+}
+main .features {
+  height: 70vh;
+  width: 100%;
+  padding: 20px;
+}
+main .features p {
+  font-size: 1.1rem;
+}
+main .features .info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 30%;
+  height: 90%;
+  border-radius: 20px;
+  overflow: hidden;
+  background-color: #004643;
+  color: #e8e4e6;
+}
+main .features .info .circleInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  height: 60%;
+  margin-bottom: 20px;
+}
+main .features .info .circleInfo img {
+  display: flex;
+  align-items: center;
+  width: auto;
+  height: 100%;
+}
+main .calculator {
+  display: flex;
+  height: 70vh;
+}
+main .calculator div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60%;
+}
+main .calculator div .backgroundImg {
+  position: absolute;
+  left: 0;
+  width: 45%;
+  height: 40%;
+  background-color: #f9bc60;
+  border-radius: 0 30px 30px 0;
+  z-index: -1;
+}
+main .calculator div img {
+  position: relative;
+  width: 50%;
+  height: auto;
+  margin: 0 80px 0 0;
+}
+main .calculator h3 {
+  width: 40%;
+  font-size: 2rem;
+}
+
+#loginView {
+  z-index: 9999;
+  position: absolute;
+  top: 15vh;
+  height: 70vh;
+  width: 60vw;
+  display: flex;
+  overflow: hidden;
+  border-radius: 30px;
+  background-color: #004643;
+  color: #fffffe;
+}
+#loginView .img {
+  background-color: #abd1c6;
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#loginView .img img {
+  width: 100%;
+  height: auto;
+}
+#loginView form {
+  width: 50%;
+  height: 100%;
+  padding: 30px 0;
+}
+#loginView form > * {
+  margin: 15px 0;
+}
+#loginView form hr {
+  width: 80%;
+  border: 1px solid #f9bc60;
+}
+#loginView form #btnSignup {
+  background-color: transparent;
+  border: 2px solid #f9bc60;
+  color: #f9bc60;
+  box-shadow: none;
+}
+#loginView form #btnSignup:hover {
+  border: 2px solid #b97207;
+  color: #b97207;
+}
+#loginView .close {
+  position: absolute;
+  top: 10px;
+  right: 30px;
+  font-size: 30px;
+  color: #f9bc60;
+  cursor: pointer;
+}
+#loginView .close:hover {
+  color: #b97207;
+}
+
+#signupView {
+  z-index: 9999;
+  position: absolute;
+  top: 15vh;
+  height: 70vh;
+  width: 60vw;
+  display: flex;
+  overflow: hidden;
+  border-radius: 30px;
+  background-color: #004643;
+  color: #fffffe;
+}
+#signupView .img {
+  background-color: #abd1c6;
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#signupView .img img {
+  width: 100%;
+  height: auto;
+}
+#signupView form {
+  width: 50%;
+  height: 100%;
+  padding: 15px 0;
+}
+#signupView form > * {
+  margin: 15px 0;
+}
+#signupView .close {
+  position: absolute;
+  top: 10px;
+  right: 30px;
+  font-size: 30px;
+  color: #f9bc60;
+  cursor: pointer;
+}
+#signupView .close:hover {
+  color: #b97207;
+}
+
+footer {
+  padding: 20px 0;
+  width: 100%;
+  text-align: center;
+  position: relative;
+  bottom: 0px;
+  background-color: #004643;
+  color: #fffffe;
+}
+
+body {
+  background-color: #abd1c6;
+  color: #0f3433;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  min-width: 98vw;
+}
+
+#overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+  display: none;
+}/*# sourceMappingURL=home.css.map */
