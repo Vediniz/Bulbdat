@@ -2,9 +2,10 @@
 Resource    ../resource/resource.robot
 
 *** Variables *** 
+${local_host}    localhost:3000
 
 *** Test Cases ***
-Open Browser and go to google Page
+Check home page
     Open Browser    ${local_host}     ${browser}
-    Sleep    10
-    
+    Wait Until Pages Contain Element    //*[@class="introduction]
+

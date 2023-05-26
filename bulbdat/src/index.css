@@ -1,18 +1,3 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
-
 /* Reset SCSS */
 *,
 *::before,
@@ -22,7 +7,8 @@ code {
   box-sizing: border-box;
 }
 
-body {
+.body {
+  width: 100vw;
   font-size: 1rem;
   line-height: 1;
   font-family: Helvetica, Arial, sans-serif;
@@ -38,6 +24,20 @@ ul {
 }
 
 /* End of Reset SCSS */
+.buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  width: 20%;
+}
+
+span {
+  font-size: large;
+  color: #001e1d;
+  font-weight: normal;
+}
+
 button {
   border: none;
   color: #001e1d;
@@ -53,13 +53,13 @@ button:hover {
   cursor: pointer;
 }
 
-form {
+.form {
   display: flex;
   flex-direction: column;
   align-items: center;
   height: 100%;
 }
-form input {
+.form input {
   font-size: large;
   width: 80%;
   height: 40px;
@@ -71,25 +71,25 @@ form input {
   background-color: #fffffe;
   color: #004643;
 }
-form input::-moz-placeholder {
+.form input::-moz-placeholder {
   color: #004643;
 }
-form input::placeholder {
+.form input::placeholder {
   color: #004643;
 }
-form button {
+.form button {
   width: 80%;
   border-radius: 30px;
 }
 
-header {
+.header {
   width: 100%;
   padding: 10px 0;
   border-bottom: 1px solid #000;
   position: relative;
   top: 0;
 }
-header nav {
+.header nav {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -97,7 +97,7 @@ header nav {
   width: 100%;
   padding: 0 100px;
 }
-header nav a {
+.header nav a {
   text-decoration: none;
   color: #001e1d;
   font-size: 1.5rem;
@@ -113,7 +113,7 @@ main {
   align-items: center;
   justify-content: center;
 }
-main section {
+main .section {
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -209,53 +209,48 @@ main .calculator h3 {
   font-size: 2rem;
 }
 
-#loginView {
-  z-index: 9999;
-  position: absolute;
-  top: 15vh;
-  height: 70vh;
-  width: 60vw;
+.loginView {
+  height: 100vh;
+  width: 100vw;
   display: flex;
-  overflow: hidden;
-  border-radius: 30px;
   background-color: #004643;
   color: #fffffe;
 }
-#loginView .img {
-  background-color: #abd1c6;
+.loginView .img {
+  background-color: #004643;
   width: 50%;
   height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-#loginView .img img {
+.loginView .img img {
   width: 100%;
   height: auto;
 }
-#loginView form {
+.loginView .form {
   width: 50%;
   height: 100%;
   padding: 30px 0;
 }
-#loginView form > * {
+.loginView .form > * {
   margin: 15px 0;
 }
-#loginView form hr {
+.loginView .form hr {
   width: 80%;
   border: 1px solid #f9bc60;
 }
-#loginView form #btnSignup {
+.loginView .form #btnSignup {
   background-color: transparent;
   border: 2px solid #f9bc60;
   color: #f9bc60;
   box-shadow: none;
 }
-#loginView form #btnSignup:hover {
+.loginView .form #btnSignup:hover {
   border: 2px solid #b97207;
   color: #b97207;
 }
-#loginView .close {
+.loginView .close {
   position: absolute;
   top: 10px;
   right: 30px;
@@ -263,55 +258,50 @@ main .calculator h3 {
   color: #f9bc60;
   cursor: pointer;
 }
-#loginView .close:hover {
+.loginView .close:hover {
   color: #b97207;
 }
 
-#signupView {
-  z-index: 9999;
-  position: absolute;
-  top: 15vh;
-  height: 70vh;
-  width: 60vw;
+.signupView {
+  height: 100vh;
+  width: 100vw;
   display: flex;
-  overflow: hidden;
-  border-radius: 30px;
   background-color: #004643;
   color: #fffffe;
 }
-#signupView .img {
-  background-color: #abd1c6;
+.signupView .img {
+  background-color: #004643;
   width: 50%;
   height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-#signupView .img img {
+.signupView .img img {
   width: 100%;
   height: auto;
 }
-#signupView form {
+.signupView .form {
   width: 50%;
   height: 100%;
   padding: 15px 0;
 }
-#signupView form > * {
+.signupView .form > * {
   margin: 15px 0;
 }
-#signupView .close {
+.signupView .close {
   position: absolute;
   top: 10px;
-  right: 30px;
+  /* right: 30px; */
   font-size: 30px;
   color: #f9bc60;
   cursor: pointer;
 }
-#signupView .close:hover {
+.signupView .close:hover {
   color: #b97207;
 }
 
-footer {
+.footer {
   padding: 20px 0;
   width: 100%;
   text-align: center;
@@ -328,7 +318,8 @@ body {
   flex-direction: column;
   align-items: center;
   min-height: 100vh;
-  min-width: 98vw;
+  /* width: 97.5vw; */
+  width: 100vw;
 }
 
 #overlay {
@@ -341,3 +332,14 @@ body {
   z-index: 1;
   display: none;
 }/*# sourceMappingURL=home.css.map */
+
+
+.loader{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  inset:0px;
+  z-index:10000;  
+  }
