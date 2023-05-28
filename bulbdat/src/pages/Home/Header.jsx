@@ -1,19 +1,41 @@
-import { Link } from 'react-router-dom';
+import tw from "twin.macro";
+import { Link } from "react-router-dom";
+import Button from "../../components/Button";
 
 export default function Header() {
     return (
-        <div className="header">
-            <nav>
-                <a href="#">Bulbdat</a>
-                <div className="buttons">
-                    <button>
-                        <Link to="/login"><span>Login</span></Link>
-                    </button>
-                    <button>
-                        <Link to="/signup"><span>Sign up</span></Link>
-                    </button>
+        <StyledHeader>
+            <StyledNav>
+                <Link to="/">
+                    <h1 className="text-2xl font-bold">Bulbdat</h1>
+                </Link>
+                <div className="flex w-1/4">
+                    <Button>
+                        <Link to="/login">Login</Link>
+                    </Button>
+                    <Button>
+                        <Link to="/signup">Sign up</Link>
+                    </Button>
                 </div>
-            </nav>
-        </div>
+            </StyledNav>
+            <hr className="w-full border-black" />
+        </StyledHeader>
     )
 }
+
+// Stylization
+
+// Styled components
+const StyledHeader = tw.header`
+    w-full
+    flex
+    flex-col
+`;
+
+const StyledNav = tw.nav`
+    w-full
+    flex
+    justify-between
+    items-center
+    px-20
+`;

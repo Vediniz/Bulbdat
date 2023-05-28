@@ -1,7 +1,22 @@
+import tw from "twin.macro";
+
 export default function Footer() {
     return(
-        <div className="footer">
+        <StyledFooter>
             <p>Copyright &copy; 2023 Bulbdat. Todos os direitos reservados.</p>
-        </div>
+        </StyledFooter>
     )
 }
+
+// Stylization
+
+// Styled components
+const StyledFooter = tw.footer`
+    w-full
+    flex
+    justify-center
+    text-base
+    py-4
+    bg-darkGreen
+    text-white
+`;

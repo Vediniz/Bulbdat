@@ -4,16 +4,25 @@ import Features from './Features';
 import Calculator from './Calculator';
 import Footer from './Footer';
 
+import tw from 'twin.macro';
+
 export default function Home() {
     return (
-        <div className='body'>
+        <div>
             <Header />
-            <main>
+            <StyledMain>
                 <Introduction />
                 <Features />
                 <Calculator />  
-            </main>
+            </StyledMain>
             <Footer />
         </div>
     )
 }
+
+// Stylization
+
+// Styled components
+const StyledMain = tw.main`
+    w-full
+`;
