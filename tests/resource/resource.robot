@@ -1,37 +1,29 @@
 *** Settings ***
-Library  SeleniumLibrary
-Library  String
+Library    SeleniumLibrary
+Library    String
 
 
 *** Variables ***
 
 *** Keywords ***
-# Open Chrome Browser
-#     [Arguments]    ${site_domain}
-#     ${webdriver}=      Set Variable  "${EXECDIR}/venv/bin/chromedriver"
-#     ${options}=        Evaluate  sys.modules['selenium.webdriver'].ChromeOptions()  sys, selenium.webdriver
-#     Call Method  ${options}  add_argument  --disable-dev-shm-usage
-#     Create Webdriver  Chrome  executable_path=${webdriver}  chrome_options=${options}
-#     Maximize Browser Window
-#     Go To       ${site_domain}
-
-Open Browser
+Open Site Domain
     [Arguments]    ${site_domain}    ${browser}
-    If  '${browser}'=='chrome'  
+    IF  '${browser}'=='chrome'  
         ${webdriver}=      Set Variable  "${EXECDIR}/venv/bin/chromedriver"
         ${options}=        Evaluate  sys.modules['selenium.webdriver'].ChromeOptions()  sys, selenium.webdriver
         Call Method  ${options}  add_argument  --disable-dev-shm-usage
         Create Webdriver  Chrome  executable_path=${webdriver}  chrome_options=${options}
-    End
+    END
   
-    If  '${browser}'=='firefox'    
+    IF  '${browser}'=='firefox'    
         ${webdriver}=      Set Variable  "${EXECDIR}/venv/bin/geckodriver"  
         ${options}=        Evaluate  sys.modules['selenium.webdriver'].FirefoxOptions()  sys, selenium.webdriver
         Call Method  ${options}  add_argument  --disable-dev-shm-usage
-        Create Webdriver  Firefox  executable_path=${webdriver}  firefox_options=${options}
-    End
+        Create Webdriver  Firefox  executable_path=${webdriver}  options=${options}
+    END
     Maximize Browser Window
     Go To       ${site_domain}
+
 
 
 ### Auxiliar Keywords
