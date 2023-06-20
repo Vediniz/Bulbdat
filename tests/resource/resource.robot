@@ -2,8 +2,14 @@
 Library    SeleniumLibrary
 Library    String
 
+*** Variables *** 
+${local_host}     localhost:3000
+${tf_username}    //*[@id="username"]
+${tf_password}    //*[@id="password"]
+${tf_email}       //*[@id="email"]
 
-*** Variables ***
+${bt_home}        //*[@id="root"]//*[contains(text(), 'Bulbdat')]
+${ph_generic}      //*[contains(text(), 'generic')]
 
 *** Keywords ***
 Open Site Domain
@@ -25,6 +31,24 @@ Open Site Domain
     Go To       ${site_domain}
 
 
+Check login page
+    ${bt_login}     Replace String     ${ph_generic}     generic     Login
+    Wait and Click Element    ${bt_login} 
+    Wait Until Page Contains Element   ${tf_username}
+    Log To Console    tf username is visible
+    Wait Until Page Contains Element   ${tf_password} 
+    Log To Console    tf password is visible
+
+Check signUp page
+    Wait and Click Element     ${bt_home}
+    ${bt_signup}     Replace String     ${ph_generic}     generic     Sign up
+    Wait and Click Element     ${bt_signup}  
+    Wait Until Page Contains Element   ${tf_username}
+    Log To Console    tf username is visible
+    Wait Until Page Contains Element   ${tf_email}
+    Log To Console    tf email is visible
+    Wait Until Page Contains Element   ${tf_password} 
+    Log To Console    tf password is visible
 
 ### Auxiliar Keywords
 Wait and Click Element

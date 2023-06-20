@@ -2,30 +2,25 @@
 Library    SeleniumLibrary
 Resource    ../resource/resource.robot
 
-*** Variables *** 
-${local_host}    localhost:3000
 
 *** Test Cases ***
 Check home page
     Open Site Domain   ${local_host}     ${browser}
     Wait Until Page Contains    Bulbdat
 
-### Para ser refatorado
+Create a user
+    Check signUp page
+    Input Text    ${tf_username}    test_user
+    Input Text    ${tf_email}       automation@test.com
+    Input Text    ${tf_password}    Bulbdat@test123
+    ${bt_cadastrar}    Replace String    ${ph_generic}    generic    Cadastrar
+    Wait and Click Element    ${bt_cadastrar}
+    Wait Until Page Contains    Controle     20s
 
-Check login page
-    Wait and Click Element    //*[contains(text(), 'Login')]
-    Wait Until Page Contains Element   //*[@id="username"]
-    Log To Console    tf username is visible
-    Wait Until Page Contains Element  //*[@id="password"]
-    Log To Console    tf password is visible
-
-Check signUp page
-    Wait and Click Element     //*[@id="root"]//*[contains(text(), 'Bulbdat')]
-    Wait and Click Element     //*[contains(text(), 'Sign up')]
-    Wait Until Page Contains Element   //*[@id="username"]
-    Log To Console    tf username is visible
-    Wait Until Page Contains Element  //*[@id="email"]
-    Log To Console    tf email is visible
-    Wait Until Page Contains Element  //*[@id="password"]
-    Log To Console    tf password is visible
-    
+Login as a user
+    Check login page
+    Input Text    ${tf_username}    test_user
+    Input Text    ${tf_password}    Bulbdat@test123
+    ${bt_entrar}    Replace String    ${ph_generic}    generic    Entrar
+    Wait and Click Element    ${bt_entrar}
+    Wait Until Page Contains    Controle     20s
