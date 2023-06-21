@@ -10,17 +10,17 @@ export default function Header() {
                     <h1 className="text-2xl font-bold">Bulbdat</h1>
                 </Link>
                 <div className="flex w-1/4">
-                    <Button>
-                        <Link to="/login">Login</Link>
-                    </Button>
-                    <Button>
-                        <Link to="/signup">Sign up</Link>
-                    </Button>
+                    <Link to="/login">
+                        <Button>Login</Button>
+                    </Link>
+                    <Link to="/signup">
+                        <Button>Sign up</Button>
+                    </Link>
                 </div>
             </StyledNav>
             <hr className="w-full border-black" />
         </StyledHeader>
-    )
+    );
 }
 
 // Stylization
