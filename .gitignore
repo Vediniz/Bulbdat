@@ -3,6 +3,7 @@ venv/
 *log.html 
 *output.xml
 *report.html
+*results/
 __pycache__/
 .venv/
 migrations/
