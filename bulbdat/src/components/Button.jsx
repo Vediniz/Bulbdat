@@ -1,8 +1,8 @@
 import tw from "twin.macro";
 
-export default function Button({children}, props) {
+export default function Button({children, onClick}) {
     return (
-        <StyledButton onClick={props.onClick}>
+        <StyledButton onClick={onClick}>
             {children}
         </StyledButton>
     )
