@@ -5,7 +5,7 @@ from pydantic import BaseModel
 import json
 
 def read_devices_from_file(filename):
-    with open(filename, "r") as file:
+    with open(filename, "r", encoding='utf-8') as file:
         devices_data = json.load(file)
     return devices_data
 
