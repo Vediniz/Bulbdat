@@ -1,38 +1,54 @@
 *** Settings ***
-Library  SeleniumLibrary
-Library  String
+Library    SeleniumLibrary
+Library    String
 
+*** Variables *** 
+${local_host}     localhost:3000
+${tf_username}    //*[@id="username"]
+${tf_password}    //*[@id="password"]
+${tf_email}       //*[@id="email"]
 
-*** Variables ***
+${bt_home}        //*[@id="root"]//*[contains(text(), 'Bulbdat')]
+${ph_generic}      //*[contains(text(), 'generic')]
 
 *** Keywords ***
-# Open Chrome Browser
-#     [Arguments]    ${site_domain}
-#     ${webdriver}=      Set Variable  "${EXECDIR}/venv/bin/chromedriver"
-#     ${options}=        Evaluate  sys.modules['selenium.webdriver'].ChromeOptions()  sys, selenium.webdriver
-#     Call Method  ${options}  add_argument  --disable-dev-shm-usage
-#     Create Webdriver  Chrome  executable_path=${webdriver}  chrome_options=${options}
-#     Maximize Browser Window
-#     Go To       ${site_domain}
-
-Open Browser
+Open Site Domain
     [Arguments]    ${site_domain}    ${browser}
-    If  '${browser}'=='chrome'  
+    IF  '${browser}'=='chrome'  
         ${webdriver}=      Set Variable  "${EXECDIR}/venv/bin/chromedriver"
         ${options}=        Evaluate  sys.modules['selenium.webdriver'].ChromeOptions()  sys, selenium.webdriver
         Call Method  ${options}  add_argument  --disable-dev-shm-usage
         Create Webdriver  Chrome  executable_path=${webdriver}  chrome_options=${options}
-    End
+    END
   
-    If  '${browser}'=='firefox'    
+    IF  '${browser}'=='firefox'    
         ${webdriver}=      Set Variable  "${EXECDIR}/venv/bin/geckodriver"  
         ${options}=        Evaluate  sys.modules['selenium.webdriver'].FirefoxOptions()  sys, selenium.webdriver
         Call Method  ${options}  add_argument  --disable-dev-shm-usage
-        Create Webdriver  Firefox  executable_path=${webdriver}  firefox_options=${options}
-    End
+        Create Webdriver  Firefox  executable_path=${webdriver}  options=${options}
+    END
     Maximize Browser Window
     Go To       ${site_domain}
 
+
+Check login page
+    ${bt_login}     Replace String     ${ph_generic}     generic     Login
+    Wait and Click Element    ${bt_login} 
+    Wait Until Page Contains Element   ${tf_username}
+    Log To Console    tf username is visible
+    Wait Until Page Contains Element   ${tf_password} 
+    Log To Console    tf password is visible
+
+Check signUp page
+    Wait and Click Element     ${bt_home}
+    ${bt_signup}     Replace String     ${ph_generic}     generic     Sign up
+    Wait and Click Element     ${bt_signup}  
+    Wait Until Page Contains Element   ${tf_username}
+    Log To Console    tf username is visible
+    Wait Until Page Contains Element   ${tf_email}
+    Log To Console    tf email is visible
+    Wait Until Page Contains Element   ${tf_password} 
+    Log To Console    tf password is visible
 
 ### Auxiliar Keywords
 Wait and Click Element
