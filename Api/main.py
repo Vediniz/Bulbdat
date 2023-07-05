@@ -13,16 +13,17 @@ def process_device_name(device_name):
     processed_name = device_name.replace(" ", "_").replace("/", "-").lower()
     return processed_name
 
-
-devices_data = read_devices_from_file("devices.json")
+## Teste isolado -> Isolando os .json 
+devices_data = read_devices_from_file("database/json_file/output.json")
 
 devices = {}
 for device in devices_data:
-    device_name = device["name"]
-    processed_name = process_device_name(device_name)
+    device_model = device["model"]
+    processed_name = process_device_name(device_model)
     devices[processed_name] = {
-        "name": device_name,
-        "power": device["power"],
+        "manufacturer": device["manufacturer"],
+        "brand": device["brand"],
+        "model": device_model,
         "consumption": device["consumption"]
     }
 

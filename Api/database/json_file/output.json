@@ -1,0 +1,350 @@
+[
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLS11B",
+        "consumption": 0.22
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLS11B",
+        "consumption": 0.25
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "PHILCO",
+        "model": "003306/2023",
+        "consumption": 0.22
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "PHILCO",
+        "model": "003306/2023",
+        "consumption": 0.25
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "PHILCO",
+        "model": "003305/2023",
+        "consumption": 0.29
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "PHILCO",
+        "model": "003305/2023",
+        "consumption": 0.25
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "ELECTROLUX",
+        "model": "LSE03",
+        "consumption": 0.09
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "ELECTROLUX",
+        "model": "LSE03",
+        "consumption": 0.09
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "ELECTROLUX",
+        "model": "LSP11",
+        "consumption": 0.34
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "ELECTROLUX",
+        "model": "LSP11",
+        "consumption": 0.34
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "ELECTROLUX",
+        "model": "LSW11",
+        "consumption": 0.34
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "ELECTROLUX",
+        "model": "LSW11",
+        "consumption": 0.34
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV3011BC4",
+        "consumption": 0.27
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV3011BC4A",
+        "consumption": 0.26
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV3011WG4",
+        "consumption": 0.27
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV3011WG4A",
+        "consumption": 0.26
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV9011EC4",
+        "consumption": 0.31
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV9011WC4",
+        "consumption": 0.31
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV9011EC4A",
+        "consumption": 0.29
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV9011WC4A",
+        "consumption": 0.29
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV7011TC4",
+        "consumption": 0.31
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV7011WS4",
+        "consumption": 0.31
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV7011TC4A",
+        "consumption": 0.29
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV7011WS4A",
+        "consumption": 0.29
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5011TS4",
+        "consumption": 0.31
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5011WG4",
+        "consumption": 0.31
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5011TS4A",
+        "consumption": 0.29
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5011WG4A",
+        "consumption": 0.29
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "WD14EGS62",
+        "consumption": 0.38
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "WD14EGS62A",
+        "consumption": 0.41
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "WD17SV2S6B",
+        "consumption": 0.46
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "WD17SV2S6BA",
+        "consumption": 0.49
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "WD17BV2S6B",
+        "consumption": 0.46
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "WD17BV2S6BA",
+        "consumption": 0.49
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5013BC4",
+        "consumption": 0.32
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5013BC4A",
+        "consumption": 0.38
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV9013WC4",
+        "consumption": 0.32
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV9013WC4A",
+        "consumption": 0.38
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV9013EC4",
+        "consumption": 0.32
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV9013EC4A",
+        "consumption": 0.38
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5013WC4",
+        "consumption": 0.32
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5013EC4",
+        "consumption": 0.32
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5013EC4A",
+        "consumption": 0.38
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5013WC4A",
+        "consumption": 0.38
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "WD14WGSP6",
+        "consumption": 0.38
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "WD14WGSP6A",
+        "consumption": 0.41
+    },
+    {
+        "manufacturer": "Whirlpool",
+        "brand": "BRASTEMP",
+        "model": "BNQ10ABANA",
+        "consumption": 0.28
+    },
+    {
+        "manufacturer": "Whirlpool",
+        "brand": "BRASTEMP",
+        "model": "BNQ10ASANA",
+        "consumption": 0.28
+    },
+    {
+        "manufacturer": "Whirlpool",
+        "brand": "BRASTEMP",
+        "model": "BNQ10ABBNA",
+        "consumption": 0.28
+    },
+    {
+        "manufacturer": "Whirlpool",
+        "brand": "BRASTEMP",
+        "model": "BNQ10ASBNA",
+        "consumption": 0.28
+    },
+    {
+        "manufacturer": "Whirlpool",
+        "brand": "BRASTEMP",
+        "model": "BNC10ABANA",
+        "consumption": 0.179
+    },
+    {
+        "manufacturer": "Whirlpool",
+        "brand": "BRASTEMP",
+        "model": "BNC10ASANA",
+        "consumption": 0.179
+    },
+    {
+        "manufacturer": "Whirlpool",
+        "brand": "BRASTEMP",
+        "model": "BNO10ABANA",
+        "consumption": 0.179
+    },
+    {
+        "manufacturer": "Whirlpool",
+        "brand": "BRASTEMP",
+        "model": "BNO10ASANA",
+        "consumption": 0.179
+    },
+    {
+        "manufacturer": "Whirlpool",
+        "brand": "BRASTEMP",
+        "model": "BNC10ABBNA",
+        "consumption": 0.25
+    },
+    {
+        "manufacturer": "Whirlpool",
+        "brand": "BRASTEMP",
+        "model": "BNC10ASBNA",
+        "consumption": 0.25
+    },
+    {
+        "manufacturer": "Whirlpool",
+        "brand": "BRASTEMP",
+        "model": "BNO10ABBNA",
+        "consumption": 0.25
+    },
+    {
+        "manufacturer": "Whirlpool",
+        "brand": "BRASTEMP",
+        "model": "BNO10ASBNA",
+        "consumption": 0.25
+    }
+]
