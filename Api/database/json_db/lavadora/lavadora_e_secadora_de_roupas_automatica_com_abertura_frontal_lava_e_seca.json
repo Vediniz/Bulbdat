@@ -2,37 +2,37 @@
     {
         "manufacturer": "BRITÂNIA",
         "brand": "BRITÂNIA",
-        "model": "BLS11B",
+        "model": "BLS11B (068551001)",
         "consumption": 0.22
     },
     {
         "manufacturer": "BRITÂNIA",
         "brand": "BRITÂNIA",
-        "model": "BLS11B",
+        "model": "BLS11B (068552001)",
         "consumption": 0.25
     },
     {
         "manufacturer": "BRITÂNIA",
         "brand": "PHILCO",
-        "model": "003306/2023",
+        "model": "PLS11B (058551006) / PLS11T (058551008)",
         "consumption": 0.22
     },
     {
         "manufacturer": "BRITÂNIA",
         "brand": "PHILCO",
-        "model": "003306/2023",
+        "model": "PLS11B (058552006) / PLS11T (058552008)",
         "consumption": 0.25
     },
     {
         "manufacturer": "BRITÂNIA",
         "brand": "PHILCO",
-        "model": "003305/2023",
+        "model": "PLS12B (058551001) / PLS12T (058551007)",
         "consumption": 0.29
     },
     {
         "manufacturer": "BRITÂNIA",
         "brand": "PHILCO",
-        "model": "003305/2023",
+        "model": "PLS12B (058552001) / PLS12T (058552007)",
         "consumption": 0.25
     },
     {
@@ -274,77 +274,5 @@
         "brand": "LG",
         "model": "WD14WGSP6A",
         "consumption": 0.41
-    },
-    {
-        "manufacturer": "Whirlpool",
-        "brand": "BRASTEMP",
-        "model": "BNQ10ABANA",
-        "consumption": 0.28
-    },
-    {
-        "manufacturer": "Whirlpool",
-        "brand": "BRASTEMP",
-        "model": "BNQ10ASANA",
-        "consumption": 0.28
-    },
-    {
-        "manufacturer": "Whirlpool",
-        "brand": "BRASTEMP",
-        "model": "BNQ10ABBNA",
-        "consumption": 0.28
-    },
-    {
-        "manufacturer": "Whirlpool",
-        "brand": "BRASTEMP",
-        "model": "BNQ10ASBNA",
-        "consumption": 0.28
-    },
-    {
-        "manufacturer": "Whirlpool",
-        "brand": "BRASTEMP",
-        "model": "BNC10ABANA",
-        "consumption": 0.179
-    },
-    {
-        "manufacturer": "Whirlpool",
-        "brand": "BRASTEMP",
-        "model": "BNC10ASANA",
-        "consumption": 0.179
-    },
-    {
-        "manufacturer": "Whirlpool",
-        "brand": "BRASTEMP",
-        "model": "BNO10ABANA",
-        "consumption": 0.179
-    },
-    {
-        "manufacturer": "Whirlpool",
-        "brand": "BRASTEMP",
-        "model": "BNO10ASANA",
-        "consumption": 0.179
-    },
-    {
-        "manufacturer": "Whirlpool",
-        "brand": "BRASTEMP",
-        "model": "BNC10ABBNA",
-        "consumption": 0.25
-    },
-    {
-        "manufacturer": "Whirlpool",
-        "brand": "BRASTEMP",
-        "model": "BNC10ASBNA",
-        "consumption": 0.25
-    },
-    {
-        "manufacturer": "Whirlpool",
-        "brand": "BRASTEMP",
-        "model": "BNO10ABBNA",
-        "consumption": 0.25
-    },
-    {
-        "manufacturer": "Whirlpool",
-        "brand": "BRASTEMP",
-        "model": "BNO10ASBNA",
-        "consumption": 0.25
     }
 ]

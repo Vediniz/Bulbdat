@@ -2,8 +2,7 @@ import os
 import json
 import tabula as tb
 
-## Adicionar comentários depois
-
+# Aqui eu vendi minha alma, não aguento mais, olha esse monstro, tem necessidade disso? Tinha que ser pdf? Não podia ser excel? eu aceitava até txt ... agora pdf? 
 def transform_data(data):
     if isinstance(data["Unnamed: 0"], str) and isinstance(data["Unnamed: 1"], str) and isinstance(data["Unnamed: 2"], str) and isinstance(data["Unnamed: 6"], str):
         if data["Unnamed: 0"].strip() != "" and data["Unnamed: 1"].strip() != "" and data["Unnamed: 2"].strip() != "" and data["Unnamed: 6"].strip() != "":
@@ -11,7 +10,8 @@ def transform_data(data):
                 consumption_value = float(data["Unnamed: 6"].split()[0].replace(',', '.'))
                 manufacturer_value = data["Unnamed: 0"]
                 brand_value = data["Unnamed: 1"]
-                model_value = data["Unnamed: 2"].split()[0] 
+                model_values = data["Unnamed: 2"].split()
+                model_value = data["Unnamed: 2"] if model_values[0] != "0" else model_values[1:]
                 new_data = {
                     "manufacturer": manufacturer_value,
                     "brand": brand_value,
@@ -24,10 +24,8 @@ def transform_data(data):
     return None
 
 
-
-
 def convert_pdf_to_json(pdf_file, output_file):
-    dfs = tb.read_pdf(pdf_file, pages='1')
+    dfs = tb.read_pdf(pdf_file, pages='2-5')
     transformed_data = []
 
     for df in dfs:
@@ -48,7 +46,8 @@ output_dir = 'database/json_file/'
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
-pdf_file = 'database/<pdf_aqui>'
-output_file = os.path.join(output_dir, 'output.json')
+#PDF Fonte: https://www.gov.br/inmetro/pt-br/assuntos/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica
+pdf_file = 'database/pdf_file/lavadoura_e_secadora_de_roupas_automatica_com_abertura_frontal_lava_e_seca.pdf'
+output_file = os.path.join(output_dir, 'lavadora_e_secadora_de_roupas_automatica_com_abertura_frontal_lava_e_seca.json')
 
 convert_pdf_to_json(pdf_file, output_file)
