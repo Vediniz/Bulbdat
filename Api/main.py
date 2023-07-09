@@ -1,34 +1,41 @@
 from typing import Union
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
-
 import json
+import os
 
 def read_devices_from_file(filename):
-    with open(filename, "r") as file:
-        devices_data = json.load(file)
+    devices_data = []
+    for filename in filename:
+        with open(filename, "r", encoding='utf-8') as file:
+            data = json.load(file)
+            devices_data.extend(data)
     return devices_data
 
 def process_device_name(device_name):
     processed_name = device_name.replace(" ", "_").replace("/", "-").lower()
     return processed_name
 
+file_paths = [
+    "database/json_db/lavadora/lavadora_e_secadora_de_roupas_automatica_com_abertura_frontal_lava_e_seca.json",
+    "database/json_db/lavadora/lavadoras_de_roupa_automaticas_abertura_frontal.json",
+    "database/json_db/lavadora/lavadoras_de_roupa_semi-automáticas.json",
+    "database/json_db/lavadora/lavadoras_de_roupas_automatica_abertura_superior.json",
+    # "database/json_db/generic/generic_devices.json",
+]
 
-devices_data = read_devices_from_file("devices.json")
+devices_data = read_devices_from_file(file_paths)
 
 devices = {}
 for device in devices_data:
-    device_name = device["name"]
-    processed_name = process_device_name(device_name)
+    device_model = device["model"]
+    processed_name = process_device_name(device_model)
     devices[processed_name] = {
-        "name": device_name,
-        "power": device["power"],
+        "manufacturer": device["manufacturer"],
+        "brand": device["brand"],
+        "model": device_model,
         "consumption": device["consumption"]
     }
-
-
-
-#http://www.procelinfo.com.br/main.asp?View=%7BE6BC2A5F-E787-48AF-B485-439862B17000%7D
 
 app = FastAPI()
 

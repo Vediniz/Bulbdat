@@ -1,0 +1,362 @@
+[
+    {
+        "manufacturer": "AKI ELETRO",
+        "brand": "LIBELL",
+        "model": "LIBELL 10.0",
+        "consumption": 0.009
+    },
+    {
+        "manufacturer": "AKI ELETRO",
+        "brand": "LIBELL",
+        "model": "LIBELL 10.0",
+        "consumption": 0.009
+    },
+    {
+        "manufacturer": "AKI ELETRO",
+        "brand": "LIBELL",
+        "model": "LIBELL 14.0",
+        "consumption": 0.01
+    },
+    {
+        "manufacturer": "AKI ELETRO",
+        "brand": "LIBELL",
+        "model": "LIBELL 14.0",
+        "consumption": 0.01
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLR100B  / BLR110B",
+        "consumption": 0.007
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLR100B  / BLR110B",
+        "consumption": 0.008
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLRS10B  / BEL12",
+        "consumption": 0.009
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLRS10B  / BEL12",
+        "consumption": 0.011
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLRS10F CONCEPT FUME / BLRS11VD",
+        "consumption": 0.01
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLRS10F CONCEPT FUME / BLRS11VD",
+        "consumption": 0.011
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLRS12",
+        "consumption": 0.007
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLRS12",
+        "consumption": 0.007
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLR120B",
+        "consumption": 0.007
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLR120B",
+        "consumption": 0.007
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCT6ABRBNAC",
+        "consumption": 0.017
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCT6ABRANAC",
+        "consumption": 0.017
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCT6APRANAC",
+        "consumption": 0.017
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCT6APRBNAC",
+        "consumption": 0.017
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS10ABRANAC",
+        "consumption": 0.011
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS10ABRBNAC",
+        "consumption": 0.011
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS10APRANAC",
+        "consumption": 0.011
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS10APRBNAC",
+        "consumption": 0.011
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS12ABRANAC",
+        "consumption": 0.008
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS12ABRBNAC",
+        "consumption": 0.008
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS12APRANAC",
+        "consumption": 0.008
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS12APRBNAC",
+        "consumption": 0.008
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS14ABRANAC",
+        "consumption": 0.009
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS14ABRBNAC",
+        "consumption": 0.009
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS14APRANAC",
+        "consumption": 0.009
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS14APRBNAC",
+        "consumption": 0.009
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS15ABRANAC",
+        "consumption": 0.01
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS15ABRBNAC",
+        "consumption": 0.01
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS15APRANAC",
+        "consumption": 0.01
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS15APRBNAC",
+        "consumption": 0.01
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS16ABRANAC",
+        "consumption": 0.006
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS16ABRBNAC",
+        "consumption": 0.006
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS16APRANAC",
+        "consumption": 0.006
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS16APRBNAC",
+        "consumption": 0.006
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS18ABRANAC",
+        "consumption": 0.006
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS18ABRBNAC",
+        "consumption": 0.006
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS18APRANAC",
+        "consumption": 0.006
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS18APRBNAC",
+        "consumption": 0.006
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS20ABRANAC",
+        "consumption": 0.006
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS20ABRBNAC",
+        "consumption": 0.006
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS20APRANAC",
+        "consumption": 0.006
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS20APRBNAC",
+        "consumption": 0.006
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "ALELUIA 6.7",
+        "consumption": 0.012
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "ALELUIA 6.7",
+        "consumption": 0.012
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMATIC",
+        "consumption": 0.011
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMATIC",
+        "consumption": 0.011
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX",
+        "consumption": 0.015
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX",
+        "consumption": 0.015
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 10KG",
+        "consumption": 0.014
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 10KG",
+        "consumption": 0.014
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 13kg",
+        "consumption": 0.012
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 13kg",
+        "consumption": 0.012
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 14kg",
+        "consumption": 0.01
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 14kg",
+        "consumption": 0.01
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 15kg",
+        "consumption": 0.008
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 15kg",
+        "consumption": 0.008
+    }
+]

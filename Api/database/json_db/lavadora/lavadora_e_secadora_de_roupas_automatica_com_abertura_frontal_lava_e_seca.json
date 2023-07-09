@@ -1,0 +1,278 @@
+[
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLS11B (068551001)",
+        "consumption": 0.22
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLS11B (068552001)",
+        "consumption": 0.25
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "PHILCO",
+        "model": "PLS11B (058551006) / PLS11T (058551008)",
+        "consumption": 0.22
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "PHILCO",
+        "model": "PLS11B (058552006) / PLS11T (058552008)",
+        "consumption": 0.25
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "PHILCO",
+        "model": "PLS12B (058551001) / PLS12T (058551007)",
+        "consumption": 0.29
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "PHILCO",
+        "model": "PLS12B (058552001) / PLS12T (058552007)",
+        "consumption": 0.25
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "ELECTROLUX",
+        "model": "LSE03",
+        "consumption": 0.09
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "ELECTROLUX",
+        "model": "LSE03",
+        "consumption": 0.09
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "ELECTROLUX",
+        "model": "LSP11",
+        "consumption": 0.34
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "ELECTROLUX",
+        "model": "LSP11",
+        "consumption": 0.34
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "ELECTROLUX",
+        "model": "LSW11",
+        "consumption": 0.34
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "ELECTROLUX",
+        "model": "LSW11",
+        "consumption": 0.34
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV3011BC4",
+        "consumption": 0.27
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV3011BC4A",
+        "consumption": 0.26
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV3011WG4",
+        "consumption": 0.27
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV3011WG4A",
+        "consumption": 0.26
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV9011EC4",
+        "consumption": 0.31
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV9011WC4",
+        "consumption": 0.31
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV9011EC4A",
+        "consumption": 0.29
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV9011WC4A",
+        "consumption": 0.29
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV7011TC4",
+        "consumption": 0.31
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV7011WS4",
+        "consumption": 0.31
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV7011TC4A",
+        "consumption": 0.29
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV7011WS4A",
+        "consumption": 0.29
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5011TS4",
+        "consumption": 0.31
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5011WG4",
+        "consumption": 0.31
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5011TS4A",
+        "consumption": 0.29
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5011WG4A",
+        "consumption": 0.29
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "WD14EGS62",
+        "consumption": 0.38
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "WD14EGS62A",
+        "consumption": 0.41
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "WD17SV2S6B",
+        "consumption": 0.46
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "WD17SV2S6BA",
+        "consumption": 0.49
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "WD17BV2S6B",
+        "consumption": 0.46
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "WD17BV2S6BA",
+        "consumption": 0.49
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5013BC4",
+        "consumption": 0.32
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5013BC4A",
+        "consumption": 0.38
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV9013WC4",
+        "consumption": 0.32
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV9013WC4A",
+        "consumption": 0.38
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV9013EC4",
+        "consumption": 0.32
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV9013EC4A",
+        "consumption": 0.38
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5013WC4",
+        "consumption": 0.32
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5013EC4",
+        "consumption": 0.32
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5013EC4A",
+        "consumption": 0.38
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "CV5013WC4A",
+        "consumption": 0.38
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "WD14WGSP6",
+        "consumption": 0.38
+    },
+    {
+        "manufacturer": "LG Electronics do Brasil",
+        "brand": "LG",
+        "model": "WD14WGSP6A",
+        "consumption": 0.41
+    }
+]
