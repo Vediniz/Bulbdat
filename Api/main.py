@@ -82,6 +82,13 @@ def get_lampada_devices():
     lampada_files = read_files_in_directory(lampada_directory)
     return lampada_files
 
+
+@app.get("/refrigeradores")
+def get_refrigeradores_devices():
+    refrigeradores_directory = "database/json_db/refrigeradores"
+    refrigeradores_files = read_files_in_directory(refrigeradores_directory)
+    return refrigeradores_files
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)

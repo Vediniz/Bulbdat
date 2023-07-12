@@ -1,0 +1,450 @@
+[
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "127V",
+        "model": "LAMP INC CLASSIC 127V 25W E27 10X10",
+        "consumption": 25
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "127V",
+        "model": "LAMP INC CLASSIC 127V 40W E27 10X10",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "220V",
+        "model": "LAMP INC CLASSIC 220V 25W E27 10X10",
+        "consumption": 25
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "220V",
+        "model": "LAMP INC CLASSIC 220V 40W E27 10X10",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "GENERAL ELECTRIC",
+        "brand": "GE",
+        "volts": "127V",
+        "model": "CRISTAL - A16",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "GENERAL ELECTRIC",
+        "brand": "GE",
+        "volts": "127V",
+        "model": "CRISTAL - A19",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "GENERAL ELECTRIC",
+        "brand": "GE",
+        "volts": "127V",
+        "model": "CRISTAL - A50",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "GENERAL ELECTRIC",
+        "brand": "GE",
+        "volts": "127V",
+        "model": "CRISTAL - A50",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "GENERAL ELECTRIC",
+        "brand": "GE",
+        "volts": "127V",
+        "model": "MAX LUZ",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "GENERAL ELECTRIC",
+        "brand": "GE",
+        "volts": "220V",
+        "model": "CRISTAL - A16",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "GENERAL ELECTRIC",
+        "brand": "GE",
+        "volts": "220V",
+        "model": "CRISTAL - A19",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "GENERAL ELECTRIC",
+        "brand": "GE",
+        "volts": "220V",
+        "model": "CRISTAL - A50",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "GENERAL ELECTRIC",
+        "brand": "GE",
+        "volts": "220V",
+        "model": "CRISTAL - A50",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "GENERAL ELECTRIC",
+        "brand": "GE",
+        "volts": "220V",
+        "model": "MAX LUZ",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "PHILIPS",
+        "brand": "PHILIPS",
+        "volts": "127V",
+        "model": "STD-127V25-N",
+        "consumption": 25
+    },
+    {
+        "manufacturer": "PHILIPS",
+        "brand": "PHILIPS",
+        "volts": "127V",
+        "model": "STD-127V40-N",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "PHILIPS",
+        "brand": "PHILIPS",
+        "volts": "220V",
+        "model": "STD-220V25-N",
+        "consumption": 25
+    },
+    {
+        "manufacturer": "PHILIPS",
+        "brand": "PHILIPS",
+        "volts": "220V",
+        "model": "STD-220V40-N",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "PHILIPS",
+        "brand": "PHILIPS",
+        "volts": "127V",
+        "model": "SOFT-127V25",
+        "consumption": 25
+    },
+    {
+        "manufacturer": "PHILIPS",
+        "brand": "PHILIPS",
+        "volts": "127V",
+        "model": "SOFT-127V40",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "PHILIPS",
+        "brand": "PHILIPS",
+        "volts": "220V",
+        "model": "SOFT-220V25",
+        "consumption": 25
+    },
+    {
+        "manufacturer": "PHILIPS",
+        "brand": "PHILIPS",
+        "volts": "220V",
+        "model": "SOFT-220V40",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "EMPALUX",
+        "brand": "EMPALUX",
+        "volts": "127V",
+        "model": "IN10224",
+        "consumption": 25
+    },
+    {
+        "manufacturer": "EMPALUX",
+        "brand": "EMPALUX",
+        "volts": "127V",
+        "model": "IN10424",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "EMPALUX",
+        "brand": "EMPALUX",
+        "volts": "220V",
+        "model": "IN20224",
+        "consumption": 25
+    },
+    {
+        "manufacturer": "EMPALUX",
+        "brand": "EMPALUX",
+        "volts": "220V",
+        "model": "IN20424",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "TASCHIBRA",
+        "volts": "127V",
+        "model": "LAMP INC CLARA 127V 40W E27",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "TASCHIBRA",
+        "volts": "220V",
+        "model": "LAMP INC TASCHIBRA 220V 40W E27",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "ELETROMEGA",
+        "brand": "OUROLUX",
+        "volts": "127V",
+        "model": "OuroSoft 25W 127V",
+        "consumption": 25
+    },
+    {
+        "manufacturer": "ELETROMEGA",
+        "brand": "OUROLUX",
+        "volts": "127V",
+        "model": "OuroSoft 40W 127V",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "ELETROMEGA",
+        "brand": "OUROLUX",
+        "volts": "220V",
+        "model": "OuroSoft 25W 220V",
+        "consumption": 25
+    },
+    {
+        "manufacturer": "ELETROMEGA",
+        "brand": "OUROLUX",
+        "volts": "220V",
+        "model": "OuroSoft 40W 220V",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "HAVELLS SYLVANIA",
+        "brand": "SYLVANIA",
+        "volts": "127V",
+        "model": "STANDARD 25W",
+        "consumption": 25
+    },
+    {
+        "manufacturer": "HAVELLS SYLVANIA",
+        "brand": "SYLVANIA",
+        "volts": "127V",
+        "model": "STANDARD 40W",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "HAVELLS SYLVANIA",
+        "brand": "SYLVANIA",
+        "volts": "220V",
+        "model": "STANDARD 40W",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "HAVELLS SYLVANIA",
+        "brand": "SYLVANIA",
+        "volts": "127V",
+        "model": "STANDARD 40W",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "HAVELLS SYLVANIA",
+        "brand": "SYLVANIA",
+        "volts": "220V",
+        "model": "STANDARD 40W",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "KIAN IMPORTAÇÕES LTDA.",
+        "brand": "KIAN",
+        "volts": "127V",
+        "model": "Classic A 40W 127V",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "KIAN IMPORTAÇÕES LTDA.",
+        "brand": "KIAN",
+        "volts": "220V",
+        "model": "Classic A 25W 220V",
+        "consumption": 25
+    },
+    {
+        "manufacturer": "KIAN IMPORTAÇÕES LTDA.",
+        "brand": "KIAN",
+        "volts": "220V",
+        "model": "Classic A 40W 220V",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "ALPERILUMINAÇÃO",
+        "brand": "ALPER",
+        "volts": "220V",
+        "model": "STANDARD 40W",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "FOXLUX",
+        "brand": "FOXLUX",
+        "volts": "127V",
+        "model": "Cristal IC25.1",
+        "consumption": 25
+    },
+    {
+        "manufacturer": "FOXLUX",
+        "brand": "FOXLUX",
+        "volts": "127V",
+        "model": "Cristal IC40.1",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "FOXLUX",
+        "brand": "FOXLUX",
+        "volts": "220V",
+        "model": "Cristal IC25.2",
+        "consumption": 25
+    },
+    {
+        "manufacturer": "FOXLUX",
+        "brand": "FOXLUX",
+        "volts": "220V",
+        "model": "Cristal IC40.2",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "ACTUAL COMERCIO DE PRODUTOS DE LIMPEZA LTDA",
+        "brand": "ARION",
+        "volts": "220V",
+        "model": "A55 40W 127V CLARA",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "MINAS LUX IMPORTAÇÃO E EXPORTAÇÃO LTDA",
+        "brand": "MINASLUX",
+        "volts": "127V",
+        "model": "AP60 40W 127V Leitoso",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "MINAS LUX IMPORTAÇÃO E EXPORTAÇÃO LTDA",
+        "brand": "MINASLUX",
+        "volts": "127V",
+        "model": "A55 40W 127V Claro",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "MINAS LUX IMPORTAÇÃO E EXPORTAÇÃO LTDA",
+        "brand": "MINASLUX",
+        "volts": "220V",
+        "model": "A55 40W 220V Claro",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "MINAS LUX IMPORTAÇÃO E EXPORTAÇÃO LTDA",
+        "brand": "MINASLUX",
+        "volts": "220V",
+        "model": "AP60 40W 220V Leitoso",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "GRUPO FLP",
+        "brand": "LUMEN",
+        "volts": "127V",
+        "model": "A55 40W 127V CLARA",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "GRUPO FLP",
+        "brand": "LUMEN",
+        "volts": "220V",
+        "model": "A55 40W 220V CLARA",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "AMERICAN GENERAL",
+        "brand": "AG",
+        "volts": "127V",
+        "model": "LAMPADA INCANDESCENTE CLARA 25W 127V",
+        "consumption": 25
+    },
+    {
+        "manufacturer": "AMERICAN GENERAL",
+        "brand": "AG",
+        "volts": "127V",
+        "model": "LAMPADA INCANDESCENTE CLARA 40W 127V",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "PARIMPEX",
+        "brand": "PARIMPEX",
+        "volts": "127V",
+        "model": "LAMP INC CLARA 127V 40W E27",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "ICON DO BRASIL",
+        "brand": "JR",
+        "volts": "127V",
+        "model": "LAMP INC CLARA 127V 40W E27",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "CONDULAI IND. ILUMINAÇÃO",
+        "brand": "SANEX",
+        "volts": "127V",
+        "model": "LAMP INC CLARA 127V 40W E27",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "CONDULAI IND. ILUMINAÇÃO",
+        "brand": "SANEX",
+        "volts": "220V",
+        "model": "LAMP INC CLARA 220V 40W E27",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "AVANT",
+        "brand": "AVANT",
+        "volts": "127V",
+        "model": "LAMP INC CLARA 127V 40W E27",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "GOLDEN",
+        "brand": "GOLDEN",
+        "volts": "127V",
+        "model": "A55 40W 127V CLARA",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "GOLDEN",
+        "brand": "GOLDEN",
+        "volts": "220V",
+        "model": "A55 40W 220V CLARA",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "TRILOGIA",
+        "brand": "CEMA LIGHTING",
+        "volts": "220V",
+        "model": "A55 40W 220V Claro",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "AIHA",
+        "brand": "AIHA",
+        "volts": "127V",
+        "model": "A55 40W 127V CLARA",
+        "consumption": 40
+    },
+    {
+        "manufacturer": "AIHA",
+        "brand": "AIHA",
+        "volts": "220V",
+        "model": "A55 40W 220V CLARA",
+        "consumption": 40
+    }
+]
