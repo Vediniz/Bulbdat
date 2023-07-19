@@ -1,7 +1,7 @@
-from typing import Union
-from fastapi import FastAPI
 import json
 import os
+from fastapi import FastAPI
+import uvicorn
 
 
 # def process_device_name(device_name):
@@ -65,5 +65,4 @@ def get_televisores_devices():
     return televisores_files
 
 if __name__ == "__main__":
-    import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)

@@ -1,33 +1,53 @@
-import pandas as pd
-import json
 import os
+import json
+import pandas as pd
 
-df = pd.read_excel('database/pdf_file/televisores/televisores.ods')
-output_dir = 'database/json_file/'
+#Fonte dos dados: https://www.gov.br/inmetro/pt-br/assuntos/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica
 
-if not os.path.exists(output_dir):
-    os.makedirs(output_dir)
+class ExcelConverter():
+    def __init__(self, excel_path):
+        self.data = pd.read_excel(excel_path)
 
-output_file = os.path.join(output_dir, 'televisores.json')
+    def remove_columns(self, *args):
+        for col in args:
+            if col in self.data.columns:
+                self.data = self.data.drop(columns=col)
+            else:
+                print(f'Column "{col}" not found in DataFrame')
 
-columns_to_remove = ['CHASSIS', 'MÉDIA (W)', 'EM POLEGADAS', 'VISUAL(cm) - NBR 5258', 'FREQUÊNCIA(Hz)', 'kWh/mês', 'CLASSE']
-existing_columns = df.columns.tolist()
-columns_to_drop = [col for col in columns_to_remove if col in existing_columns]
-df = df.drop(columns=columns_to_drop)
+    def rename_columns(self, **kwargs):
+        for old_name, new_name in kwargs.items():
+            if old_name in self.data.columns:
+                self.data = self.data.rename(columns={old_name: new_name})
+            else:
+                print(f'Column "{old_name}" not found in DataFrame')
 
+    def to_json(self, output_dir, output_file):
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+        data = self.data.to_dict(orient='records')
+        output_path = os.path.join(output_dir, output_file)
 
-columns_to_rename = { 
-        "FABRICANTE": "manufacturer",
-        "MARCA": "brand",
-        "TENSÃO (V)": "volts",
-        "MODELO": "model",
-        "POTÊNCIA(W)": "consumption",
-}
+        with open(output_path, 'w') as json_file:
+            json.dump(data, json_file, indent=4, ensure_ascii=False)
 
-df = df.rename(columns=columns_to_rename)
-data = df.to_dict(orient='records')
+        print(f'Converted Excel to JSON: {output_path}')
 
-with open(output_file, 'w') as json_file:
-    json.dump(data, json_file, indent=4, ensure_ascii=False)
+def convert_excel_to_json(excel_file, output_file, remove_cols, rename_cols):
+    converter = ExcelConverter(excel_file)
+    converter.remove_columns(*remove_cols)
+    converter.rename_columns(**rename_cols)
+    converter.to_json('database/json_file', output_file)
 
-print(f"Converted PDF to JSON: {output_file}")
+remove_cols = ['Unnamed: 0', 'CÒDIGO DE BARRAS', 'TIPO', 'FLUXO LUMINOSO  ( lm )', 'VIDA (horas)', 'EFICIÊNCIA ENERGÉTICA(lm/W )', 'CLASSE DE EFICIÊNCIA ENERGÉTICA']
+rename_cols = {'FORNECEDOR': 'manufacturer', 'MARCA': 'brand', 'TENSÃO': 'volts', 'MODELO': 'model', 'POTÊNCIA DECLARADA ( W )': 'consumption'}
+
+convert_excel_to_json('database/pdf_file/lampada/lampada_incandecente.xlsx', 'lampada_incandecente.json', remove_cols, rename_cols)
+convert_excel_to_json('database/pdf_file/lampada/lampada_decorativa.ods', 'lampada_decorativa.json', remove_cols, rename_cols)
+
+## Templatezinho pra copia e cola
+# remove_cols = []
+# rename_cols = {}
+
+# convert_excel_to_json('database/pdf_file/', '.json', remove_cols, rename_cols)
+# convert_excel_to_json('database/pdf_file/', '.json', remove_cols, rename_cols)
