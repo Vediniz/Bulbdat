@@ -8,6 +8,7 @@ __pycache__/
 .venv/
 migrations/
 *.pdf
+pdf_file/
 
 # Logs
 logs

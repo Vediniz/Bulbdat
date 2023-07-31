@@ -11,10 +11,10 @@ export default function Header() {
                 </Link>
                 <div className="flex w-1/4">
                     <Link to="/login">
-                        <Button>Login</Button>
+                        <Button>Entrar</Button>
                     </Link>
                     <Link to="/signup">
-                        <Button>Sign up</Button>
+                        <Button>Cadastrar</Button>
                     </Link>
                 </div>
             </StyledNav>

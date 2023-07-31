@@ -67,7 +67,7 @@ export default function Login(){
                     <Input type="password" value={user.password} name="password" id="password" placeholder="Senha" onChange={(e)=>setUser({...user, password:e.target.value})}/>
                     <Button onClick={login}>Entrar</Button>
                     <Link to="/signup">
-                        <Button>Sign up</Button>
+                        <Button>Cadastrar</Button>
                     </Link>
                 </Form>
             </StyledBody>
