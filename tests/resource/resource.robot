@@ -8,8 +8,9 @@ ${tf_username}    //*[@id="username"]
 ${tf_password}    //*[@id="password"]
 ${tf_email}       //*[@id="email"]
 
-${bt_home}        //*[@id="root"]//*[contains(text(), 'Bulbdat')]
+${bt_home}         //*[@id="root"]//*[contains(text(), 'Bulbdat')]
 ${ph_generic}      //*[contains(text(), 'generic')]
+${bt_generic}      //button[contains(text(), 'generic')]
 
 *** Keywords ***
 Open Site Domain
