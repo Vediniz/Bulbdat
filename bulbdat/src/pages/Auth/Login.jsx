@@ -42,15 +42,6 @@ export default function Login(){
 
     return(
         <StyledLogin>
-            {/* <div className="img">
-                <img src={require("../../assets/images/loginSign.png")} alt="Smartphone" />
-            </div>
-            <div className="form">
-                <h1>Login</h1>
-                <input type="text" value={user.username} name="username" id="username" placeholder="Usuário" onChange={(e)=>setUser({...user, username:e.target.value})}/>
-                <input type="password" value={user.password} name="password" id="password" placeholder="Senha" onChange={(e)=>setUser({...user, password:e.target.value})}/>
-                <button onClick={login}>Entrar</button>
-            </div> */}
             <Link to="/" className="w-full px-20 py-3">
                 <h1 className="text-2xl font-bold">Bulbdat</h1>
             </Link>
