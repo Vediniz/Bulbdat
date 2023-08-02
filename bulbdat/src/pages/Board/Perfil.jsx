@@ -8,7 +8,7 @@ export default function Perfil() {
             <SideMenu />
 
             <Layout className='w-full h-screen flex items-center justify-center bg-lightGreen'>
-                <h1>Perfil</h1>
+                <h1 className='text-3xl'>Perfil</h1>
             </Layout>
 
         </Layout>
