@@ -3,492 +3,574 @@
         "manufacturer": "COLORVISÃO",
         "brand": "COLORMAQ",
         "model": "LCA12 / BBRANAC",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "127"
     },
     {
         "manufacturer": "COLORVISÃO",
         "brand": "COLORMAQ",
         "model": "LCA12 / BBRBNAC",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "220"
     },
     {
         "manufacturer": "COLORVISÃO",
         "brand": "COLORMAQ",
         "model": "LCA15 / BBRANAC",
-        "consumption": 0.022
+        "consumption": 0.022,
+        "volts": "127"
     },
     {
         "manufacturer": "COLORVISÃO",
         "brand": "COLORMAQ",
         "model": "LCA15 / BBRBNAC",
-        "consumption": 0.022
+        "consumption": 0.022,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LAC09",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LAC09",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LAC11",
-        "consumption": 0.03
+        "consumption": 0.03,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LAC11",
-        "consumption": 0.03
+        "consumption": 0.03,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LAC12",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LAC12",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LES09",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LES09",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LES11",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LES11",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LWI13",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LWI13",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LEC14",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LEC14",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LEC17",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LEC17",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LEJ14",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LEJ14",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LEI18",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LEI18",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LEV17",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LEV17",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LEH17",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LEH17",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LED13",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LED13",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LED14",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LED14",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LED15",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LED15",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LED17",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LED17",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "Midea",
         "model": "MA500W13/GK-01",
-        "consumption": 0.024
+        "consumption": 0.024,
+        "volts": "127"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "Midea",
         "model": "MA500W13/GK-02",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "220"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "Midea",
         "model": "MA500W13/WG-01",
-        "consumption": 0.024
+        "consumption": 0.024,
+        "volts": "127"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "Midea",
         "model": "MA500W13/WG-02",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "220"
     },
     {
         "manufacturer": "MUELLER",
         "brand": "MUELLER",
         "model": "ENERGY 8KG",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "127"
     },
     {
         "manufacturer": "MUELLER",
         "brand": "MUELLER",
         "model": "ENERGY 8KG",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "220"
     },
     {
         "manufacturer": "MUELLER",
         "brand": "MUELLER",
         "model": "POPMATIC 8KG",
-        "consumption": 0.021
+        "consumption": 0.021,
+        "volts": "127"
     },
     {
         "manufacturer": "MUELLER",
         "brand": "MUELLER",
         "model": "POPMATIC 8KG",
-        "consumption": 0.021
+        "consumption": 0.021,
+        "volts": "220"
     },
     {
         "manufacturer": "MUELLER",
         "brand": "MUELLER",
         "model": "POPMATIC 6KG",
-        "consumption": 0.027
+        "consumption": 0.027,
+        "volts": "127"
     },
     {
         "manufacturer": "MUELLER",
         "brand": "MUELLER",
         "model": "POPMATIC 6KG",
-        "consumption": 0.027
+        "consumption": 0.027,
+        "volts": "220"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F120B1WA",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "127"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F120B1WB",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "220"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F120B1TA",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "127"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F120B1TB",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "220"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F140B6WA",
-        "consumption": 0.027
+        "consumption": 0.027,
+        "volts": "127"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F140B6TA",
-        "consumption": 0.027
+        "consumption": 0.027,
+        "volts": "127"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F140B6WB",
-        "consumption": 0.027
+        "consumption": 0.027,
+        "volts": "220"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F140B6TB",
-        "consumption": 0.027
+        "consumption": 0.027,
+        "volts": "220"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F160B6WA",
-        "consumption": 0.027
+        "consumption": 0.027,
+        "volts": "127"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F160B6WB",
-        "consumption": 0.027
+        "consumption": 0.027,
+        "volts": "220"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F170P6TA",
-        "consumption": 0.026
+        "consumption": 0.026,
+        "volts": "127"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F170P6TB",
-        "consumption": 0.026
+        "consumption": 0.026,
+        "volts": "220"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F130B1WA",
-        "consumption": 0.029
+        "consumption": 0.029,
+        "volts": "127"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F130B1WB",
-        "consumption": 0.029
+        "consumption": 0.029,
+        "volts": "220"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F140B1WA",
-        "consumption": 0.027
+        "consumption": 0.027,
+        "volts": "127"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F140B1WB",
-        "consumption": 0.027
+        "consumption": 0.027,
+        "volts": "220"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F170B7WA",
-        "consumption": 0.03
+        "consumption": 0.03,
+        "volts": "127"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F170B7WB",
-        "consumption": 0.03
+        "consumption": 0.03,
+        "volts": "220"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F180P7TA",
-        "consumption": 0.029
+        "consumption": 0.029,
+        "volts": "127"
     },
     {
         "manufacturer": "Panasonic do Brasil Ltda",
         "brand": "PANASONIC",
         "model": "NA-F180P7TB",
-        "consumption": 0.029
+        "consumption": 0.029,
+        "volts": "220"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BWK12ABANA",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BWK12B9ANA",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BWK12ABBNA",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BWK12B9BNA",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BWR12ABANA",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BWR12ABBNA",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BWK14ABANA",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BWK14ABBNA",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BWK16ABANA",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BWK16ABBNA",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BWD16A9ANA",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BWD16A9BNA",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BWK17ABANA",
-        "consumption": 0.03
+        "consumption": 0.03,
+        "volts": "127"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BWK17ABBNA",
-        "consumption": 0.03
+        "consumption": 0.03,
+        "volts": "220"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "CONSUL",
         "model": "CWB09BBANA",
-        "consumption": 0.029
+        "consumption": 0.029,
+        "volts": "127"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "CONSUL",
         "model": "CWB09BBBNA",
-        "consumption": 0.029
+        "consumption": 0.029,
+        "volts": "220"
     }
 ]

@@ -1,0 +1,429 @@
+[
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "127 V",
+        "model": "LAMP INC V. LISA 127V 25W CL E27 10X5",
+        "consumption": 25.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "127 V",
+        "model": "LAMP INC V. LISA 127V 25W SIL E27 10X5",
+        "consumption": 25.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "127 V",
+        "model": "LAMP INC BELLALUX 127V 40W E27 5X10",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "127 V",
+        "model": "LAMP INC BOLINHA 127V 40W CL E27 10X5",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "127 V",
+        "model": "LAMP INC BOLINHA 127V 40W SIL E27 10X5",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "127 V",
+        "model": "LAMP INC V. LISA 127V 40W CL E27 10X5",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "127 V",
+        "model": "LAMP INC V. LISA 127V 40W SIL E27 10X5",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "127 V",
+        "model": "LAMP INC BELLALUX 127V 60W E27 5X10",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "127 V",
+        "model": "LAMP INC MINI BELLALUX 127V 60W E27 10X5",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "127 V",
+        "model": "LAMP INC V. BALÃO 127V 60W CL E27 10X5",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "127 V",
+        "model": "LAMP INC V. BALÃO 127V 60W SIL E27 10X5",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "127 V",
+        "model": "LAMP INC BELLALUX 127V 100W E27 5X10",
+        "consumption": 100.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "220 V",
+        "model": "LAMP INC V. LISA 220V 25W CL E27 10X5",
+        "consumption": 25.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "220 V",
+        "model": "LAMP INC V. LISA 220V 25W SIL E27 10X5",
+        "consumption": 25.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "220 V",
+        "model": "LAMP INC V. LISA 220V 40W CL E27 10X5",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "220 V",
+        "model": "LAMP INC V. LISA 220V 40W SIL E27 10X5",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "220 V",
+        "model": "LAMP INC BOLINHA 220V 40W CL E27 10X5",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "220 V",
+        "model": "LAMP INC BOLINHA 220V 40W SIL E27 10X5",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "220 V",
+        "model": "LAMP INC BELLALUX 220V 40W E27 CX 50",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "220 V",
+        "model": "LAMP INC V. BALÃO 220V 60W CL E27 10X5",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "220 V",
+        "model": "LAMP INC V. BALÃO 220V 60W SIL E27 10X5",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "220 V",
+        "model": "LAMP INC BELLALUX 220V 60W E27 5X10",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "220 V",
+        "model": "LAMP INC MINI BELLALUX 220V 60W E27 10X5",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "OSRAM",
+        "brand": "OSRAM",
+        "volts": "220 V",
+        "model": "LAMP INC BELLALUX 220V 100W E27 CX 50",
+        "consumption": 100.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "BOLINHA BG-45 E-27 CLARA DECORATIVA",
+        "consumption": 15.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "BOLINHA BG-45 E-27 LEITOSA DECORATIVA",
+        "consumption": 15.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "BOLINHA BG-45 E-27 CLARA LUSTRE",
+        "consumption": 25.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "BOLINHA BG-45 E-27 LEITOSA LUSTRE",
+        "consumption": 25.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "BOLINHA BG-45 E-14 CLARA LUSTRE",
+        "consumption": 25.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "BOLINHA BG-45 E-14 LEITOSA LUSTRE",
+        "consumption": 25.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA LISA VL-37 E-27 CLARA LUSTRE",
+        "consumption": 25.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA LISA VL-37 E-27 LEITOSA LUSTRE",
+        "consumption": 25.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA LISA VL-37 E-14 CLARA LUSTRE",
+        "consumption": 25.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA LISA VL-37 E-14 LEITOSA LUSTRE",
+        "consumption": 25.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA LISA VL-35 E-12 CLARA LUSTRE",
+        "consumption": 25.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA LISA VL-35 E-12 LEITOSA LUSTRE",
+        "consumption": 25.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "BOLINHA BG-45 E-27 CLARA LUSTRE",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "BOLINHA BG-45 E-27 LEITOSA LUSTRE",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "BOLINHA BG-45 E-27 CLARA FOGÃO/GELADEIRA",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "BOLINHA BG-45 E-27 LEITOSA FOGÃO/GELADEIRA",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "BOLINHA BG-45 E-14 CLARA LUSTRE",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "BOLINHA BG-45 E-14 LEITOSA LUSTRE",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA LISA VL-37 E-27 CLARA LUSTRE",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA LISA VL-37 E-27 LEITOSA LUSTRE",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA LISA VL-37 E-14 CLARA LUSTRE",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA LISA VL-37 E-14 LEITOSA LUSTRE",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA BALÃO VL-50 E-27 CLARA LUSTRE",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA BALÃO VL-50 E-27 LEITOSA LUSTRE",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "PA-45 E-27 CLARA FOGÃO/GELADEIRA",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA LISA VL-35 E-12 CLARA LUSTRE",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA LISA VL-35 E-12 LEITOSA LUSTRE",
+        "consumption": 40.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "BOLINHA BG-45 E-27 CLARA LUSTRE",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "BOLINHA BG-45 E-27 LEITOSA LUSTRE",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "BOLINHA BG-45 E-14 CLARA LUSTRE",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "BOLINHA BG-45 E-14 LEITOSA LUSTRE",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA LISA VL-37 E-27 CLARA LUSTRE",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA LISA VL-37 E-27 LEITOSA LUSTRE",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA LISA VL-37 E-14 CLARA LUSTRE",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA LISA VL-37 E-14 LEITOSA LUSTRE",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA BALÃO VL-50 E-27 CLARA LUSTRE",
+        "consumption": 60.0
+    },
+    {
+        "manufacturer": "SADOKIN",
+        "brand": "SADOKIN",
+        "volts": "127V",
+        "model": "VELA BALÃO VL-50 E-27 LEITOSA LUSTRE",
+        "consumption": 60.0
+    }
+]

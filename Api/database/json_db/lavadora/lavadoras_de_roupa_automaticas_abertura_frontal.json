@@ -3,450 +3,525 @@
         "manufacturer": "BRITÂNIA",
         "brand": "PHILCO",
         "model": "PLR10B",
-        "consumption": 0.011
+        "consumption": 0.011,
+        "volts": "127"
     },
     {
         "manufacturer": "BRITÂNIA",
         "brand": "PHILCO",
         "model": "PLR10B",
-        "consumption": 0.011
+        "consumption": 0.011,
+        "volts": "220"
     },
     {
         "manufacturer": "BRITÂNIA",
         "brand": "BRITÂNIA",
         "model": "BLR11B",
-        "consumption": 0.011
+        "consumption": 0.011,
+        "volts": "127"
     },
     {
         "manufacturer": "BRITÂNIA",
         "brand": "BRITÂNIA",
         "model": "BLR11B",
-        "consumption": 0.011
+        "consumption": 0.011,
+        "volts": "220"
     },
     {
         "manufacturer": "BRITÂNIA",
         "brand": "PHILCO",
         "model": "PLR12B",
-        "consumption": 0.024
+        "consumption": 0.024,
+        "volts": "127"
     },
     {
         "manufacturer": "BRITÂNIA",
         "brand": "PHILCO",
         "model": "PLR12B",
-        "consumption": 0.021
+        "consumption": 0.021,
+        "volts": "220"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LFE11",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "ELECTROLUX",
         "brand": "ELECTROLUX",
         "model": "LFE11",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "220"
     },
     {
         "manufacturer": "LG Eletronics do Brasil",
         "brand": "LG",
         "model": "FV3011WG4",
-        "consumption": 0.021
+        "consumption": 0.021,
+        "volts": "127"
     },
     {
         "manufacturer": "LG Eletronics do Brasil",
         "brand": "LG",
         "model": "FV3011WG4A",
-        "consumption": 0.023
+        "consumption": 0.023,
+        "volts": "220"
     },
     {
         "manufacturer": "LG Eletronics do Brasil",
         "brand": "LG",
         "model": "FV3011WB4",
-        "consumption": 0.021
+        "consumption": 0.021,
+        "volts": "127"
     },
     {
         "manufacturer": "LG Eletronics do Brasil",
         "brand": "LG",
         "model": "FV3011WB4A",
-        "consumption": 0.023
+        "consumption": 0.023,
+        "volts": "220"
     },
     {
         "manufacturer": "LG Eletronics do Brasil",
         "brand": "LG",
         "model": "FV5011WG4",
-        "consumption": 0.025
+        "consumption": 0.025,
+        "volts": "127"
     },
     {
         "manufacturer": "LG Eletronics do Brasil",
         "brand": "LG",
         "model": "FV5011WG4A",
-        "consumption": 0.026
+        "consumption": 0.026,
+        "volts": "220"
     },
     {
         "manufacturer": "LG Eletronics do Brasil",
         "brand": "LG",
         "model": "FV5013WC4",
-        "consumption": 0.026
+        "consumption": 0.026,
+        "volts": "127"
     },
     {
         "manufacturer": "LG Eletronics do Brasil",
         "brand": "LG",
         "model": "FV5013WC4A",
-        "consumption": 0.027
+        "consumption": 0.027,
+        "volts": "220"
     },
     {
         "manufacturer": "LG Eletronics do Brasil",
         "brand": "LG",
         "model": "WK17BS6A",
-        "consumption": 0.025
+        "consumption": 0.025,
+        "volts": "220"
     },
     {
         "manufacturer": "LG Eletronics do Brasil",
         "brand": "LG",
         "model": "WK17VS6A",
-        "consumption": 0.025
+        "consumption": 0.025,
+        "volts": "220"
     },
     {
         "manufacturer": "LG Eletronics do Brasil",
         "brand": "LG",
         "model": "WM14WGSP6",
-        "consumption": 0.026
+        "consumption": 0.026,
+        "volts": "127"
     },
     {
         "manufacturer": "LG Eletronics do Brasil",
         "brand": "LG",
         "model": "WM14WGSP6A",
-        "consumption": 0.029
+        "consumption": 0.029,
+        "volts": "220"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "LFA11B1",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "127 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "LFA11B2",
-        "consumption": 0.03
+        "consumption": 0.03,
+        "volts": "220 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "LFA11P1",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "127 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "LFA11P2",
-        "consumption": 0.03
+        "consumption": 0.03,
+        "volts": "220 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "LFA11X1",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "127 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "LFA11X2",
-        "consumption": 0.03
+        "consumption": 0.03,
+        "volts": "220 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "LFB11B1",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "127 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "LFB11B2",
-        "consumption": 0.03
+        "consumption": 0.03,
+        "volts": "220 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "LFB11X1",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "127 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "LFB11X2",
-        "consumption": 0.03
+        "consumption": 0.03,
+        "volts": "220 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "MF200W110WB/GK-01",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "127 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "MF200W110WB/GK-02",
-        "consumption": 0.025
+        "consumption": 0.025,
+        "volts": "220 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "MF200W110WB/WK-01",
-        "consumption": 0.028
+        "consumption": 0.028,
+        "volts": "127 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "MF200W110WB/WK-02",
-        "consumption": 0.025
+        "consumption": 0.025,
+        "volts": "220 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "MF200W125WB/GK-01",
-        "consumption": 0.025
+        "consumption": 0.025,
+        "volts": "127 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "MF200W125WB/GK-02",
-        "consumption": 0.022
+        "consumption": 0.022,
+        "volts": "220 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "MF200W125WB/WK-01",
-        "consumption": 0.025
+        "consumption": 0.025,
+        "volts": "127 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "MF200W125WB/WK-02",
-        "consumption": 0.022
+        "consumption": 0.022,
+        "volts": "220 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "MF200W130WB/GK-01",
-        "consumption": 0.023
+        "consumption": 0.023,
+        "volts": "127 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "MF200W130WB/GK-02",
-        "consumption": 0.02
+        "consumption": 0.02,
+        "volts": "220 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "MF200W130WB/WK-01",
-        "consumption": 0.023
+        "consumption": 0.023,
+        "volts": "127 V"
     },
     {
         "manufacturer": "SPRINGER CARRIER LTDA",
         "brand": "MIDEA",
         "model": "MF200W130WB/WK-02",
-        "consumption": 0.02
+        "consumption": 0.02,
+        "volts": "220 V"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WF106U4SAWQ",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WW11J44530W-AZ",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WW11J44530WFAZ",
-        "consumption": 0.029
+        "consumption": 0.029,
+        "volts": "220"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WW11K6800AW",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WW11K6800AWFAZ",
-        "consumption": 0.027
+        "consumption": 0.027,
+        "volts": "220"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WW11J4453JW",
-        "consumption": 0.024
+        "consumption": 0.024,
+        "volts": "127"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WW11J4453JWF",
-        "consumption": 0.024
+        "consumption": 0.024,
+        "volts": "220"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WW11J4473PX",
-        "consumption": 0.025
+        "consumption": 0.025,
+        "volts": "127"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WW11J4473PXF",
-        "consumption": 0.022
+        "consumption": 0.022,
+        "volts": "220"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WF15K6500AV",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WW11J4473PW",
-        "consumption": 0.025
+        "consumption": 0.025,
+        "volts": "127"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WW11J4473PWF",
-        "consumption": 0.022
+        "consumption": 0.022,
+        "volts": "220"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WW14T504DSB",
-        "consumption": 0.023
+        "consumption": 0.023,
+        "volts": "127"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WW14T504DSE",
-        "consumption": 0.023
+        "consumption": 0.023,
+        "volts": "127"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WW14T504DSBF",
-        "consumption": 0.022
+        "consumption": 0.022,
+        "volts": "220"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WW14T504DSEF",
-        "consumption": 0.022
+        "consumption": 0.022,
+        "volts": "220"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WF18T6500GV",
-        "consumption": 0.022
+        "consumption": 0.022,
+        "volts": "127"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WW11J4473PX",
-        "consumption": 0.023
+        "consumption": 0.023,
+        "volts": "127"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "SAMSUNG",
         "model": "WW11J4473PXF",
-        "consumption": 0.023
+        "consumption": 0.023,
+        "volts": "220"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "Samsung",
         "model": "WF17T6000AV",
-        "consumption": 0.029
+        "consumption": 0.029,
+        "volts": "127"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "Samsung",
         "model": "WW10J4273PW/AZ",
-        "consumption": 0.023
+        "consumption": 0.023,
+        "volts": "127V"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "Samsung",
         "model": "WW10J4273PW/AZ",
-        "consumption": 0.023
+        "consumption": 0.023,
+        "volts": "127V"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "Samsung",
         "model": "WW10J4273PWFAZ",
-        "consumption": 0.021
+        "consumption": 0.021,
+        "volts": "220V"
     },
     {
         "manufacturer": "Samsung Eletrônica da Amazônia Ltda",
         "brand": "Samsung",
         "model": "WW10J4273PWFAZ",
-        "consumption": 0.024
+        "consumption": 0.024,
+        "volts": "220V"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BNF09ABANA",
-        "consumption": 0.023
+        "consumption": 0.023,
+        "volts": "127"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BNF09ASANA",
-        "consumption": 0.023
+        "consumption": 0.023,
+        "volts": "127"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BNF09ABBNA",
-        "consumption": 0.022
+        "consumption": 0.022,
+        "volts": "220"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BNF09ASBNA",
-        "consumption": 0.022
+        "consumption": 0.022,
+        "volts": "220"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BNF10ABANA",
-        "consumption": 0.027
+        "consumption": 0.027,
+        "volts": "127"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BNF10ASANA",
-        "consumption": 0.027
+        "consumption": 0.027,
+        "volts": "127"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BNF10ABBNA",
-        "consumption": 0.027
+        "consumption": 0.027,
+        "volts": "220"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BNF10ASBNA",
-        "consumption": 0.027
+        "consumption": 0.027,
+        "volts": "220"
     },
     {
         "manufacturer": "Whirlpool",
         "brand": "BRASTEMP",
         "model": "BNF15ASANA",
-        "consumption": 0.031
+        "consumption": 0.031,
+        "volts": "127"
     }
 ]

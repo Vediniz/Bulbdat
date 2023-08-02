@@ -1,0 +1,1052 @@
+[
+    {
+        "manufacturer": "AKI ELETRO",
+        "brand": "LIBELL",
+        "model": "LIBELL 10.0",
+        "consumption": 0.009,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "AKI ELETRO",
+        "brand": "LIBELL",
+        "model": "LIBELL 10.0",
+        "consumption": 0.009,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "AKI ELETRO",
+        "brand": "LIBELL",
+        "model": "LIBELL 14.0",
+        "consumption": 0.01,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "AKI ELETRO",
+        "brand": "LIBELL",
+        "model": "LIBELL 14.0",
+        "consumption": 0.01,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLR100B  / BLR110B",
+        "consumption": 0.007,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLR100B  / BLR110B",
+        "consumption": 0.008,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLRS10B  / BEL12",
+        "consumption": 0.009,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLRS10B  / BEL12",
+        "consumption": 0.011,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLRS10F CONCEPT FUME / BLRS11VD",
+        "consumption": 0.01,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLRS10F CONCEPT FUME / BLRS11VD",
+        "consumption": 0.011,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLRS12",
+        "consumption": 0.007,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLRS12",
+        "consumption": 0.007,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLR120B",
+        "consumption": 0.007,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "BRITÂNIA",
+        "model": "BLR120B",
+        "consumption": 0.007,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCT6ABRBNAC",
+        "consumption": 0.017,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCT6ABRANAC",
+        "consumption": 0.017,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCT6APRANAC",
+        "consumption": 0.017,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCT6APRBNAC",
+        "consumption": 0.017,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS10ABRANAC",
+        "consumption": 0.011,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS10ABRBNAC",
+        "consumption": 0.011,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS10APRANAC",
+        "consumption": 0.011,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS10APRBNAC",
+        "consumption": 0.011,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS12ABRANAC",
+        "consumption": 0.008,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS12ABRBNAC",
+        "consumption": 0.008,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS12APRANAC",
+        "consumption": 0.008,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS12APRBNAC",
+        "consumption": 0.008,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS14ABRANAC",
+        "consumption": 0.009,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS14ABRBNAC",
+        "consumption": 0.009,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS14APRANAC",
+        "consumption": 0.009,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS14APRBNAC",
+        "consumption": 0.009,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS15ABRANAC",
+        "consumption": 0.01,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS15ABRBNAC",
+        "consumption": 0.01,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS15APRANAC",
+        "consumption": 0.01,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS15APRBNAC",
+        "consumption": 0.01,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS16ABRANAC",
+        "consumption": 0.006,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS16ABRBNAC",
+        "consumption": 0.006,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS16APRANAC",
+        "consumption": 0.006,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS16APRBNAC",
+        "consumption": 0.006,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS18ABRANAC",
+        "consumption": 0.006,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS18ABRBNAC",
+        "consumption": 0.006,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS18APRANAC",
+        "consumption": 0.006,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS18APRBNAC",
+        "consumption": 0.006,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS20ABRANAC",
+        "consumption": 0.006,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS20ABRBNAC",
+        "consumption": 0.006,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS20APRANAC",
+        "consumption": 0.006,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "Color Visão do Brasil",
+        "brand": "COLORMAQ",
+        "model": "LCS20APRBNAC",
+        "consumption": 0.006,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "ALELUIA 6.7",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "ALELUIA 6.7",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMATIC",
+        "consumption": 0.011,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMATIC",
+        "consumption": 0.011,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX",
+        "consumption": 0.015,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX",
+        "consumption": 0.015,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 10KG",
+        "consumption": 0.014,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 10KG",
+        "consumption": 0.014,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 13kg",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 13kg",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 14kg",
+        "consumption": 0.01,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 14kg",
+        "consumption": 0.01,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 15kg",
+        "consumption": 0.008,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 15kg",
+        "consumption": 0.008,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 16kg",
+        "consumption": 0.008,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 16kg",
+        "consumption": 0.008,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 18kg",
+        "consumption": 0.007,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 18kg",
+        "consumption": 0.007,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "TURBILHÃO 5KG",
+        "consumption": 0.016,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "TURBILHÃO 5KG",
+        "consumption": 0.016,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "Turbilhão Max",
+        "consumption": 0.014,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "Turbilhão Max",
+        "consumption": 0.014,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMATIC 13kg",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMATIC 13kg",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX NEO ECO",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX NEO ECO",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 20kg",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MADSON",
+        "brand": "SUGGAR",
+        "model": "LAVAMAX ECO 20kg",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora Big 14",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora Big 14",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora Big 16",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora Big 16",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora Family 12",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora Family 12",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora Family  Lite 10",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora Family  Lite 10",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora Plus 4,5",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora Plus 4,5",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora PopTank 5",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora PopTank 5",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora SuperPop 4",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora SuperPop 4",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora SuperTank 8",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora SuperTank 8",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora Big 20,1",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "MUELLER",
+        "brand": "MUELLER",
+        "model": "Lavadora Big 20,1",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "SEB DO BRASIL",
+        "brand": "ARNO",
+        "model": "Lavadora Lavete Extreme ML91 127V",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "SEB DO BRASIL",
+        "brand": "ARNO",
+        "model": "Lavadora Lavete Extreme ML91 220V",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "SEB DO BRASIL",
+        "brand": "ARNO",
+        "model": "Lavadora Lavete Eco ML81 127V",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "SEB DO BRASIL",
+        "brand": "ARNO",
+        "model": "Lavadora Lavete Eco ML81 220V",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15000001 - LWBE100T BRANCA",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15000002 - LWBE100T BRANCA",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15000003 - LWBE100T BLACK",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15000004 - LWBE100T BLACK",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15000005 - LWBE100T SILVER",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15000006- LWBE100T SILVER",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15010001 - LWBE120T BRANCA",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15010002 - LWBE120T BRANCA",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15010003- LWBE120T BLACK",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15010004 - LWBE120T BLACK",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15020001 - LWBE150T BRANCA",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15020002- LWBE150T BRANCA",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15020003- LWBE150T BLACK",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15020004 - LWBE150T BLACK",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15020005 - LWBE150T SILVER",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15020006 - LWBE150T SILVER",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15030001 - LWBE150T PLUS BRANCA",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15030002- LWBE150T PLUS BRANCA",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15030003- LWBE150T PLUS BLACK",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15030004- LWBE150T PLUS BLACK",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15030005 - LWBE150T PLUS SILVER",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15030006 - LWBE150T PLUS SILVER",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15040001 - LWBE201T BRANCA",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15040002- LWBE201T BRANCA",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15040003 - LWBE201T BLACK",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15040004 - LWBE201T BLACK",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15040005  - LWBE201T SILVER",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15040006 - LWBE201T SILVER",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15050001 - LWBE201T PLUS BRANCA",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15050002  - LWBE201T PLUS BRANCA",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15050003  - LWBE201T PLUS SILVER",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15050004 - LWBE201T PLUS SILVER",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "11080001 - SALLY",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "11080002 - SALLY",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "11200001  - BARBARA BRANCA",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "11200002  - BARBARA BRANCA",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "11200010 - BARBARA BLACK",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "11200011  - BARBARA BLACK",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "11200039 - BARBARA SILVER",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "11200040  - BARBARA SILVER",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15060001  - LWBE085T BRANCA",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15060002 - LWBE085T BRANCA",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15060003  - LWBE085T BLACK",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15060004 - LWBE085T BLACK",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15070001  - LWLI040T BRANCA",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15070002  - LWLI040T BRANCA",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15070003  - LWLI040T BLACK",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15070004  - LWLI040T BLACK",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15070005  - LWLI040T SILVER",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "15070006  - LWLI040T SILVER",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "11150026  - TRADICIONAL BLACK",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "11150027 - TRADICIONAL BLACK",
+        "consumption": 0.012,
+        "volts": "220"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "11150031 - TRADICIONAL CLARA III",
+        "consumption": 0.012,
+        "volts": "127"
+    },
+    {
+        "manufacturer": "WANKE",
+        "brand": "WANKE",
+        "model": "11150032 - TRADICIONAL CLARA III",
+        "consumption": 0.012,
+        "volts": "220"
+    }
+]

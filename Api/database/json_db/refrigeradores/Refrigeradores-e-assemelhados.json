@@ -1,0 +1,2661 @@
+[
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF406I",
+        "consumption-127": 40.0,
+        "consumption-220": 43.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF500I",
+        "consumption-127": 44.5,
+        "consumption-220": 46.7
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF520DI",
+        "consumption-127": 59.6,
+        "consumption-220": 61.3
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF520DIP",
+        "consumption-127": 59.6,
+        "consumption-220": 61.3
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF380I",
+        "consumption-127": 36.0,
+        "consumption-220": 36.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF411I",
+        "consumption-127": 38.0,
+        "consumption-220": 42.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF533I",
+        "consumption-127": 42.0,
+        "consumption-220": 42.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF533ID",
+        "consumption-127": 44.0,
+        "consumption-220": 44.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF533IPD",
+        "consumption-127": 44.0,
+        "consumption-220": 44.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Britânia",
+        "model": "BRF533BD",
+        "consumption-127": 44.0,
+        "consumption-220": 44.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Britânia",
+        "model": "BRF533ID",
+        "consumption-127": 44.0,
+        "consumption-220": 44.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF504I",
+        "consumption-127": 50.0,
+        "consumption-220": 50.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF507IP",
+        "consumption-127": 47.5,
+        "consumption-220": 42.5
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF504ID",
+        "consumption-127": 51.0,
+        "consumption-220": 51.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF505TI",
+        "consumption-127": 40.0,
+        "consumption-220": 40.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF600I",
+        "consumption-127": 49.0,
+        "consumption-220": 49.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF260RV",
+        "consumption-127": 35.0,
+        "consumption-220": 35.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF260RP",
+        "consumption-127": 35.0,
+        "consumption-220": 35.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF503TI",
+        "consumption-127": 36.0,
+        "consumption-220": 36.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF510I",
+        "consumption-127": 63.0,
+        "consumption-220": 55.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PRF510IP",
+        "consumption-127": 63.0,
+        "consumption-220": 55.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Britânia",
+        "model": "BFG50B",
+        "consumption-127": 11.8,
+        "consumption-220": 12.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG50B",
+        "consumption-127": 11.8,
+        "consumption-220": 12.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG50ICE",
+        "consumption-127": 11.8,
+        "consumption-220": 12.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Britânia",
+        "model": "BFG85B",
+        "consumption-127": 12.4,
+        "consumption-220": 12.1
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG85B",
+        "consumption-127": 12.4,
+        "consumption-220": 12.1
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG85ICE",
+        "consumption-127": 12.4,
+        "consumption-220": 12.1
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Britânia",
+        "model": "BFG85PL",
+        "consumption-127": 12.4,
+        "consumption-220": 12.1
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG85PL",
+        "consumption-127": 12.4,
+        "consumption-220": 12.1
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Britânia",
+        "model": "BFG111B",
+        "consumption-127": 16.5,
+        "consumption-220": 16.5
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG111B",
+        "consumption-127": 16.5,
+        "consumption-220": 16.5
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG125B",
+        "consumption-127": 15.2,
+        "consumption-220": 14.7
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Britânia",
+        "model": "BFG50B",
+        "consumption-127": 17.0,
+        "consumption-220": 17.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG50B",
+        "consumption-127": 17.0,
+        "consumption-220": 17.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG50P",
+        "consumption-127": 17.0,
+        "consumption-220": 17.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PH85N",
+        "consumption-127": 17.5,
+        "consumption-220": 17.5
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PH85PR",
+        "consumption-127": 17.5,
+        "consumption-220": 17.5
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PH85 Platinum",
+        "consumption-127": 17.5,
+        "consumption-220": 17.5
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG90I",
+        "consumption-127": 18.0,
+        "consumption-220": 18.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG95B",
+        "consumption-127": 18.0,
+        "consumption-220": 18.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Britânia",
+        "model": "BFG94P",
+        "consumption-127": 18.0,
+        "consumption-220": 18.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG51B",
+        "consumption-127": 16.0,
+        "consumption-220": 16.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG87B",
+        "consumption-127": 15.0,
+        "consumption-220": 15.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG90RV",
+        "consumption-127": 15.0,
+        "consumption-220": 15.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG112B",
+        "consumption-127": 16.0,
+        "consumption-220": 16.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG107RV",
+        "consumption-127": 18.0,
+        "consumption-220": 18.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Britânia",
+        "model": "BFH109B",
+        "consumption-127": 23.0,
+        "consumption-220": 23.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFH105B",
+        "consumption-127": 23.0,
+        "consumption-220": 23.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Britânia",
+        "model": "BFH162B",
+        "consumption-127": 27.9,
+        "consumption-220": 25.8
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFH160B",
+        "consumption-127": 27.9,
+        "consumption-220": 25.8
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFH205B",
+        "consumption-127": 34.5,
+        "consumption-220": 32.2
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFZ330B",
+        "consumption-127": 35.9,
+        "consumption-220": 32.9
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFH440B",
+        "consumption-127": 35.8,
+        "consumption-220": 35.8
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Britânia",
+        "model": "BFH202B",
+        "consumption-127": 35.0,
+        "consumption-220": 35.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "H200L",
+        "consumption-127": 35.0,
+        "consumption-220": 35.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFH260B",
+        "consumption-127": 38.0,
+        "consumption-220": 38.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFH515B",
+        "consumption-127": 67.0,
+        "consumption-220": 67.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFV205B",
+        "consumption-127": 32.0,
+        "consumption-220": 32.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFV205I",
+        "consumption-127": 32.0,
+        "consumption-220": 32.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFV300I",
+        "consumption-127": 36.5,
+        "consumption-220": 36.5
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG120 Vintage",
+        "consumption-127": 20.0,
+        "consumption-220": 19.6
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG100RV",
+        "consumption-127": 22.2,
+        "consumption-220": 22.2
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG100RP",
+        "consumption-127": 22.2,
+        "consumption-220": 22.2
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG121RV",
+        "consumption-127": 19.5,
+        "consumption-220": 19.5
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Britânia",
+        "model": "BFG50B",
+        "consumption-127": 17.0,
+        "consumption-220": 17.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG50B",
+        "consumption-127": 17.0,
+        "consumption-220": 17.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG50P",
+        "consumption-127": 17.0,
+        "consumption-220": 17.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG85B",
+        "consumption-127": 17.0,
+        "consumption-220": 17.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PH85PR",
+        "consumption-127": 17.5,
+        "consumption-220": 17.5
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PH85 Platinum",
+        "consumption-127": 17.5,
+        "consumption-220": 17.5
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG90I",
+        "consumption-127": 18.0,
+        "consumption-220": 18.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG95B",
+        "consumption-127": 18.0,
+        "consumption-220": 18.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Britânia",
+        "model": "BFG94P",
+        "consumption-127": 18.0,
+        "consumption-220": 18.0
+    },
+    {
+        "manufacturer": "BRITÂNIA",
+        "brand": "Philco",
+        "model": "PFG85P",
+        "consumption-127": 17.0,
+        "consumption-220": 17.0
+    },
+    {
+        "manufacturer": "CRISS COMERCIAL LTDA",
+        "brand": "Crissair",
+        "model": " FRZ 06.2 260 Litros 220V",
+        "consumption-220": 32.0
+    },
+    {
+        "manufacturer": "CRISS COMERCIAL LTDA",
+        "brand": "Crissair",
+        "model": "RSD 05.2  350 litros 220V",
+        "consumption-220": 18.8
+    },
+    {
+        "manufacturer": "CRISS COMERCIAL LTDA",
+        "brand": "Crissair",
+        "model": "RFD 01",
+        "consumption-127": 56.1
+    },
+    {
+        "manufacturer": "CRISS COMERCIAL LTDA",
+        "brand": "Crissair",
+        "model": "RFD 02",
+        "consumption-220": 61.4
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "H162",
+        "consumption-127": 26.6,
+        "consumption-220": 26.6
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "H222",
+        "consumption-127": 34.0,
+        "consumption-220": 34.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "RFE39",
+        "consumption-127": 37.5,
+        "consumption-220": 37.5
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "FE18",
+        "consumption-127": 41.8,
+        "consumption-220": 41.8
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "FE22",
+        "consumption-127": 42.6,
+        "consumption-220": 42.6
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "FE26",
+        "consumption-127": 43.7,
+        "consumption-220": 43.7
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "RE80",
+        "consumption-127": 17.4,
+        "consumption-220": 17.4
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "RE120",
+        "consumption-127": 19.9,
+        "consumption-220": 19.9
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "RE31",
+        "consumption-127": 23.3,
+        "consumption-220": 23.3
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DC35A",
+        "consumption-127": 38.4,
+        "consumption-220": 38.4
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DC49A",
+        "consumption-127": 58.1,
+        "consumption-220": 58.1
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DC44",
+        "consumption-127": 46.0,
+        "consumption-220": 46.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DC51_DC51X",
+        "consumption-127": 58.8,
+        "consumption-220": 58.8
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "SH72X_SS72X",
+        "consumption-127": 64.0,
+        "consumption-220": 64.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DF80_DF80X_DF82_DF82X",
+        "consumption-127": 71.0,
+        "consumption-220": 71.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DB52 _DB52X_DT52X_DB53_DB53X",
+        "consumption-127": 59.0,
+        "consumption-220": 59.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DB83_DB83X_DB84_DB84X",
+        "consumption-127": 68.0,
+        "consumption-220": 68.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DM83X_DM84X",
+        "consumption-127": 75.0,
+        "consumption-220": 75.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "IB52_IB52X_IB53_IB53X",
+        "consumption-127": 45.7,
+        "consumption-220": 45.7
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DM85X_DM86X_DM86V",
+        "consumption-127": 69.0,
+        "consumption-220": 69.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DF56_DF56S_TF56_TF56S",
+        "consumption-127": 54.0,
+        "consumption-220": 54.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "IF55_IF55S_IF55B",
+        "consumption-127": 35.3,
+        "consumption-220": 35.3
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "TF55_TF55S",
+        "consumption-127": 49.8,
+        "consumption-220": 49.8
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "IF56B_IT56S",
+        "consumption-127": 36.4,
+        "consumption-220": 36.4
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DFN39_DFX39_TF39_TF39S",
+        "consumption-127": 43.6,
+        "consumption-220": 43.6
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DF35A_DF35X",
+        "consumption-127": 39.0,
+        "consumption-220": 39.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DF42_DF42X_TF42_TF42S",
+        "consumption-127": 53.0,
+        "consumption-220": 53.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DFN41_DFX41",
+        "consumption-127": 54.3,
+        "consumption-220": 54.3
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DF44_DF44S",
+        "consumption-127": 56.3,
+        "consumption-220": 56.3
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DW44S",
+        "consumption-127": 56.3,
+        "consumption-220": 56.3
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "TW42S",
+        "consumption-127": 53.0,
+        "consumption-220": 53.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Continental",
+        "model": "TC44_TC44S",
+        "consumption-127": 55.3,
+        "consumption-220": 55.3
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Continental",
+        "model": "TC41_TC41S",
+        "consumption-127": 51.3,
+        "consumption-220": 51.3
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DM90X_DM91X",
+        "consumption-127": 56.3,
+        "consumption-220": 56.3
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DQ90X",
+        "consumption-127": 62.5,
+        "consumption-220": 62.5
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "BEER2",
+        "consumption-127": 17.0,
+        "consumption-220": 17.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "H330",
+        "consumption-127": 46.3,
+        "consumption-220": 46.3
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "H440",
+        "consumption-127": 59.15,
+        "consumption-220": 59.15
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "H550",
+        "consumption-127": 72.5,
+        "consumption-220": 72.5
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "FE19",
+        "consumption-127": 38.9,
+        "consumption-220": 38.9
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "IF56B_IT56S_IT56",
+        "consumption-127": 36.4,
+        "consumption-220": 36.4
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "FE23",
+        "consumption-127": 39.9,
+        "consumption-220": 39.9
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "FE27",
+        "consumption-127": 41.2,
+        "consumption-220": 41.2
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DB44_DB44S",
+        "consumption-127": 48.4,
+        "consumption-220": 48.4
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "IB45_IB45S",
+        "consumption-127": 36.3,
+        "consumption-220": 36.3
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "IB54_IB54S_IB54B",
+        "consumption-127": 42.9,
+        "consumption-220": 42.9
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "IB55_IB55S",
+        "consumption-127": 42.7,
+        "consumption-220": 42.7
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Continental",
+        "model": "TC56_TC56S",
+        "consumption-127": 54.0,
+        "consumption-220": 54.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "HE150",
+        "consumption-127": 28.2,
+        "consumption-220": 28.2
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "HE200",
+        "consumption-127": 31.4,
+        "consumption-220": 31.4
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "IS9S",
+        "consumption-127": 61.0,
+        "consumption-220": 61.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "IF55_IF55S_IF55B",
+        "consumption-127": 35.3,
+        "consumption-220": 35.3
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "DF42_DF42X_TF42_TF42S",
+        "consumption-127": 53.0,
+        "consumption-220": 53.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "FTI4S",
+        "consumption-127": 30.5
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "RTI4S",
+        "consumption-127": 15.0
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "IM8_IM8S_IM8B",
+        "consumption-127": 55.4,
+        "consumption-220": 55.4
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "IM8IS",
+        "consumption-127": 71.8,
+        "consumption-220": 71.8
+    },
+    {
+        "manufacturer": "ELECTROLUX",
+        "brand": "Electrolux",
+        "model": "IQ8S",
+        "consumption-127": 59.8,
+        "consumption-220": 59.8
+    },
+    {
+        "manufacturer": "ELETTROMEC",
+        "brand": "Elettromec",
+        "model": "FZ-DU-262-XX-2HSB",
+        "consumption-220": 40.4
+    },
+    {
+        "manufacturer": "ELETTROMEC",
+        "brand": "Elettromec",
+        "model": "RF-DU-360-XX-2HSB",
+        "consumption-220": 18.0
+    },
+    {
+        "manufacturer": "ELETTROMEC",
+        "brand": "Elettromec",
+        "model": "RF-FD-531-XX-2HSA ",
+        "consumption-220": 46.6
+    },
+    {
+        "manufacturer": "ELETTROMEC",
+        "brand": "Elettromec",
+        "model": "REFRI FD 600X2",
+        "consumption-220": 57.8
+    },
+    {
+        "manufacturer": "ELETTROMEC",
+        "brand": "Invita",
+        "model": "i-RF-BF-360-XX-2HMA",
+        "consumption-220": 37.9
+    },
+    {
+        "manufacturer": "ELETTROMEC",
+        "brand": "Elettromec",
+        "model": "RF-BF-360-VT-2HMB / RF-BF-360-XX-2HMB",
+        "consumption-220": 37.9
+    },
+    {
+        "manufacturer": "ELETTROMEC",
+        "brand": "Elettromec",
+        "model": "RF-BF-360-VT-2HMC / RF-BF-360-XX-2HMC",
+        "consumption-220": 24.4
+    },
+    {
+        "manufacturer": "ELETTROMEC",
+        "brand": "Elettromec",
+        "model": "RF-MD-472-VT-2HMA / RF-MD-472-XX-2HMA",
+        "consumption-220": 30.6
+    },
+    {
+        "manufacturer": "ESMALTEC",
+        "brand": "Esmaltec",
+        "model": "ROC31",
+        "consumption-127": 23.9,
+        "consumption-220": 23.9
+    },
+    {
+        "manufacturer": "ESMALTEC",
+        "brand": "Esmaltec",
+        "model": "ROC35",
+        "consumption-127": 22.5,
+        "consumption-220": 22.5
+    },
+    {
+        "manufacturer": "ESMALTEC",
+        "brand": "Esmaltec",
+        "model": "ROC31R",
+        "consumption-127": 23.5,
+        "consumption-220": 23.5
+    },
+    {
+        "manufacturer": "ESMALTEC",
+        "brand": "Esmaltec",
+        "model": "ROC35R",
+        "consumption-127": 21.9,
+        "consumption-220": 21.9
+    },
+    {
+        "manufacturer": "ESMALTEC",
+        "brand": "Esmaltec",
+        "model": "RCD34",
+        "consumption-127": 38.5,
+        "consumption-220": 38.5
+    },
+    {
+        "manufacturer": "ESMALTEC",
+        "brand": "Esmaltec",
+        "model": "RCD38",
+        "consumption-127": 41.0,
+        "consumption-220": 41.0
+    },
+    {
+        "manufacturer": "FRANKE SISTEMAS DE COZINHAS DO BRASIL LTDA",
+        "brand": "Franke",
+        "model": "FCB 320 NR ENF V A++ BRA",
+        "consumption-220": 25.8
+    },
+    {
+        "manufacturer": "FRIGELAR COMÉRCIO E INDÚSTRIA LTDA",
+        "brand": "EOS",
+        "model": "EFB50EFB50P",
+        "consumption-127": 15.8,
+        "consumption-220": 15.8
+    },
+    {
+        "manufacturer": "FRIGELAR COMÉRCIO E INDÚSTRIA LTDA",
+        "brand": "EOS",
+        "model": "EFB80EFB80P",
+        "consumption-127": 14.2,
+        "consumption-220": 14.2
+    },
+    {
+        "manufacturer": "FRIGELAR COMÉRCIO E INDÚSTRIA LTDA",
+        "brand": "EOS",
+        "model": "EFB100EFB100P",
+        "consumption-127": 16.7,
+        "consumption-220": 16.7
+    },
+    {
+        "manufacturer": "FRIGELAR COMÉRCIO E INDÚSTRIA LTDA",
+        "brand": "EOS",
+        "model": "EFB130EFB130P",
+        "consumption-127": 17.8,
+        "consumption-220": 17.8
+    },
+    {
+        "manufacturer": "FRIGELAR COMÉRCIO E INDÚSTRIA LTDA",
+        "brand": "EOS",
+        "model": "EFH150X",
+        "consumption-127": 21.6,
+        "consumption-220": 21.6
+    },
+    {
+        "manufacturer": "FRIGELAR COMÉRCIO E INDÚSTRIA LTDA",
+        "brand": "EOS",
+        "model": "EFH250X",
+        "consumption-127": 28.7,
+        "consumption-220": 28.7
+    },
+    {
+        "manufacturer": "FRIGELAR COMÉRCIO E INDÚSTRIA LTDA",
+        "brand": "EOS",
+        "model": "EFH350X",
+        "consumption-127": 37.0,
+        "consumption-220": 37.0
+    },
+    {
+        "manufacturer": "FRIGELAR COMÉRCIO E INDÚSTRIA LTDA",
+        "brand": "EOS",
+        "model": "EFH550XX",
+        "consumption-127": 61.1,
+        "consumption-220": 61.1
+    },
+    {
+        "manufacturer": "HISENSE GORENJE DO BRASIL",
+        "brand": "Gorenje",
+        "model": "FNI5182A1",
+        "consumption-220": 26.3
+    },
+    {
+        "manufacturer": "HISENSE GORENJE DO BRASIL",
+        "brand": "Gorenje",
+        "model": "ONR192BK, NRK6192UX",
+        "consumption-220": 29.2
+    },
+    {
+        "manufacturer": "HISENSE GORENJE DO BRASIL",
+        "brand": "Gorenje",
+        "model": "ORB152R",
+        "consumption-220": 29.2
+    },
+    {
+        "manufacturer": "HISENSE GORENJE DO BRASIL",
+        "brand": "Gorenje",
+        "model": "RI5182A1",
+        "consumption-220": 15.8
+    },
+    {
+        "manufacturer": "HISENSE GORENJE DO BRASIL",
+        "brand": "Gorenje",
+        "model": "NRKI5182A2",
+        "consumption-220": 23.5
+    },
+    {
+        "manufacturer": "LG",
+        "brand": "LG",
+        "model": "GS65SDN / GS65SDN1",
+        "consumption-127": 57.5,
+        "consumption-220": 57.5
+    },
+    {
+        "manufacturer": "LG",
+        "brand": "LG",
+        "model": "GC-X247CSAV / GC-X247CSA1 / GC-X247CQBV / GC-X247CQB1 / GC-X247CSBV / GC-X247CSB1",
+        "consumption-127": 57.5,
+        "consumption-220": 57.5
+    },
+    {
+        "manufacturer": "LG",
+        "brand": "LG",
+        "model": "GR-X248LKZM / GR-X248LKZ1",
+        "consumption-127": 73.0,
+        "consumption-220": 73.0
+    },
+    {
+        "manufacturer": "LG",
+        "brand": "LG",
+        "model": "GM86SDDB / GM86SDDB1",
+        "consumption-127": 61.7,
+        "consumption-220": 59.2
+    },
+    {
+        "manufacturer": "LG",
+        "brand": "LG",
+        "model": "GC-B659BSB / GC-B659BSB1",
+        "consumption-127": 33.3,
+        "consumption-220": 33.3
+    },
+    {
+        "manufacturer": "LG",
+        "brand": "LG",
+        "model": "GC-L247SLUV / GC-L247SLU1",
+        "consumption-127": 57.5,
+        "consumption-220": 57.5
+    },
+    {
+        "manufacturer": "LG",
+        "brand": "LG",
+        "model": "GC-L228FTLK / GC-L228FTL1",
+        "consumption-127": 57.0,
+        "consumption-220": 57.0
+    },
+    {
+        "manufacturer": "LG",
+        "brand": "LG",
+        "model": "GT44BPP / GT44BPP1",
+        "consumption-127": 34.6,
+        "consumption-220": 34.6
+    },
+    {
+        "manufacturer": "LG",
+        "brand": "LG",
+        "model": "GR-B413PSJU / GR-B413PSJ1",
+        "consumption-127": 49.6,
+        "consumption-220": 49.6
+    },
+    {
+        "manufacturer": "LG",
+        "brand": "LG",
+        "model": "GR-X228NMSM / GR-X228NMS1",
+        "consumption-127": 70.2,
+        "consumption-220": 70.2
+    },
+    {
+        "manufacturer": "LG",
+        "brand": "LG",
+        "model": "GT51BPP / GT51BPP1",
+        "consumption-127": 43.5,
+        "consumption-220": 43.5
+    },
+    {
+        "manufacturer": "Metalfrio Solutions S.A.",
+        "brand": "Metalfrio",
+        "model": "DA302",
+        "consumption-220": 44.6
+    },
+    {
+        "manufacturer": "Metalfrio Solutions S.A.",
+        "brand": "Metalfrio",
+        "model": "DA302",
+        "consumption-127": 43.8
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IC 18FI",
+        "consumption-127": 41.42
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IC24FI",
+        "consumption-127": 38.75
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IC 24R",
+        "consumption-127": 17.75
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IC 24C",
+        "consumption-127": 36.3
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IC 24CI",
+        "consumption-127": 36.3
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IC 30FI",
+        "consumption-127": 46.75
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IC 30R",
+        "consumption-127": 27.5
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IC 30RID",
+        "consumption-127": 27.5
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IC 36FI",
+        "consumption-127": 51.75
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IC 36R",
+        "consumption-127": 30.16
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IC 36RID",
+        "consumption-127": 30.2
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IT30CI",
+        "consumption-127": 38.84
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IT30FI",
+        "consumption-127": 50.5
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IT30R",
+        "consumption-127": 27.0
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IT30CIID",
+        "consumption-127": 36.5
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IT36CI",
+        "consumption-127": 42.42
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IT36CIID",
+        "consumption-127": 42.42
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IT36R",
+        "consumption-127": 29.42
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "IT36RID",
+        "consumption-127": 29.42
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "PRO4850",
+        "consumption-127": 58.5
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "PRO4850G",
+        "consumption-127": 58.5
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "PRO3650",
+        "consumption-127": 55.33
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "PRO3650G",
+        "consumption-127": 55.3
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "BI-48SD/S",
+        "consumption-127": 72.25
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "BI-48SID/S",
+        "consumption-127": 66.92
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "BI-42SD/S",
+        "consumption-127": 67.42
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "BI-42SID/S",
+        "consumption-127": 62.0
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "BI-42UFDID/S",
+        "consumption-127": 57.8
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "BI-36UFDID/S",
+        "consumption-127": 54.5
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "BI-36F/S",
+        "consumption-127": 61.5
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "BI-36RG/S",
+        "consumption-127": 34.6
+    },
+    {
+        "manufacturer": "Mia Appliances",
+        "brand": "Sub-Zero",
+        "model": "BI-36R/S",
+        "consumption-127": 34.3
+    },
+    {
+        "manufacturer": "MIELE DO BRASIL",
+        "brand": "Miele",
+        "model": "K 2801 Vi 127 Volts",
+        "consumption-127": 20.9
+    },
+    {
+        "manufacturer": "MIELE DO BRASIL",
+        "brand": "Miele",
+        "model": "K 2801 Vi 220 Volts",
+        "consumption-220": 18.2
+    },
+    {
+        "manufacturer": "MIELE DO BRASIL",
+        "brand": "Miele",
+        "model": "K 2901 Vi 127 Volts",
+        "consumption-127": 23.1
+    },
+    {
+        "manufacturer": "MIELE DO BRASIL",
+        "brand": "Miele",
+        "model": "K 2901 Vi 220 Volts",
+        "consumption-220": 18.7
+    },
+    {
+        "manufacturer": "MIELE DO BRASIL",
+        "brand": "Miele",
+        "model": "F 2411 Vi 127 volts",
+        "consumption-127": 35.5
+    },
+    {
+        "manufacturer": "MIELE DO BRASIL",
+        "brand": "Miele",
+        "model": "F 2411 Vi 220 Volts",
+        "consumption-220": 33.1
+    },
+    {
+        "manufacturer": "MIELE DO BRASIL",
+        "brand": "Miele",
+        "model": "F 2811 Vi 127 Volts",
+        "consumption-127": 42.4
+    },
+    {
+        "manufacturer": "MIELE DO BRASIL",
+        "brand": "Miele",
+        "model": "F 2811 Vi 220 Volts",
+        "consumption-220": 45.5
+    },
+    {
+        "manufacturer": "MIELE DO BRASIL",
+        "brand": "Miele",
+        "model": "F 2911 Vi 127 Volts",
+        "consumption-127": 50.1
+    },
+    {
+        "manufacturer": "MIELE DO BRASIL",
+        "brand": "Miele",
+        "model": "KF 2801 Vi 220 Volts",
+        "consumption-220": 30.5
+    },
+    {
+        "manufacturer": "MIELE DO BRASIL",
+        "brand": "Miele",
+        "model": "KF 2901 Vi 127 Volts",
+        "consumption-127": 33.5
+    },
+    {
+        "manufacturer": "MIELE DO BRASIL",
+        "brand": "Miele",
+        "model": "KF 2901 Vi 220 Volts",
+        "consumption-220": 29.6
+    },
+    {
+        "manufacturer": "MIELE DO BRASIL",
+        "brand": "Miele",
+        "model": "KS 37472 iD",
+        "consumption-220": 15.6
+    },
+    {
+        "manufacturer": "MIELE DO BRASIL",
+        "brand": "Miele",
+        "model": "FNS 37402 i",
+        "consumption-220": 24.5
+    },
+    {
+        "manufacturer": "MIELE DO BRASIL",
+        "brand": "Miele",
+        "model": "KFNS 37692 IDE",
+        "consumption-220": 25.5
+    },
+    {
+        "manufacturer": "PANASONIC DO BRASIL LTDA",
+        "brand": "Panasonic",
+        "model": "NR-BB53",
+        "consumption-127": 39.9,
+        "consumption-220": 39.9
+    },
+    {
+        "manufacturer": "PANASONIC DO BRASIL LTDA",
+        "brand": "Panasonic",
+        "model": "NR-BB71",
+        "consumption-127": 40.9,
+        "consumption-220": 40.9
+    },
+    {
+        "manufacturer": "PANASONIC DO BRASIL LTDA",
+        "brand": "Panasonic",
+        "model": "NR-BT40",
+        "consumption-127": 45.0,
+        "consumption-220": 45.0
+    },
+    {
+        "manufacturer": "PANASONIC DO BRASIL LTDA",
+        "brand": "Panasonic",
+        "model": "NR-BT42",
+        "consumption-127": 31.0,
+        "consumption-220": 31.0
+    },
+    {
+        "manufacturer": "PANASONIC DO BRASIL LTDA",
+        "brand": "Panasonic",
+        "model": "NR-BT50",
+        "consumption-127": 45.4,
+        "consumption-220": 45.4
+    },
+    {
+        "manufacturer": "PANASONIC DO BRASIL LTDA",
+        "brand": "Panasonic",
+        "model": "NR-BT51",
+        "consumption-127": 35.4,
+        "consumption-220": 35.4
+    },
+    {
+        "manufacturer": "PANASONIC DO BRASIL LTDA",
+        "brand": "Panasonic",
+        "model": "NR-BT55",
+        "consumption-127": 39.0,
+        "consumption-220": 39.0
+    },
+    {
+        "manufacturer": "PANASONIC DO BRASIL LTDA",
+        "brand": "Panasonic",
+        "model": "NR-CB85",
+        "consumption-127": 66.0,
+        "consumption-220": 66.0
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RS58T5561B1/AZ",
+        "consumption-127": 48.0
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RS58T5561B1/BZ",
+        "consumption-220": 48.0
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RF59A7011SR/AZ",
+        "consumption-127": 60.0
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RF59A7011SR/BZ",
+        "consumption-220": 60.0
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RF49A5202S9/AZ",
+        "consumption-127": 43.5
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RF49A5202S9/BZ",
+        "consumption-220": 43.5
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RT38K5A0KWW/FZ",
+        "consumption-127": 39.3,
+        "consumption-220": 39.3
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RT38K5A0KS9/FZ",
+        "consumption-127": 39.3,
+        "consumption-220": 39.3
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RT46K6A4KWW/FZ",
+        "consumption-127": 41.6,
+        "consumption-220": 41.6
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RT46K6A4KS9/FZ",
+        "consumption-127": 41.6,
+        "consumption-220": 41.6
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RT46K6A4KBS/FZ",
+        "consumption-127": 36.2,
+        "consumption-220": 35.0
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RT53K6240S8/AZ",
+        "consumption-127": 40.8
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RT53K6240S8/BZ",
+        "consumption-220": 40.8
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RL4353RBASL/AZ",
+        "consumption-127": 38.5
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RL4353RBASL/BZ",
+        "consumption-220": 38.5
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RL4363RBASL/AZ",
+        "consumption-127": 38.5
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RL4363RBASL/BZ",
+        "consumption-220": 38.5
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RF23R6201SR/AZ",
+        "consumption-127": 60.0
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RF23R6201SR/BZ",
+        "consumption-220": 60.0
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RF23R6301SR/AZ",
+        "consumption-127": 70.0
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RF23R6301SR/BZ",
+        "consumption-220": 70.0
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RF22R7351SR/AZ",
+        "consumption-127": 62.0
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RF22R7351SR/BZ",
+        "consumption-220": 62.0
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RF56K9040SR/AZ",
+        "consumption-127": 58.8
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RF56K9040SR/BZ",
+        "consumption-220": 80.0
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RF27T5501SG/AZ",
+        "consumption-127": 60.0
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RF27T5501SG/BZ",
+        "consumption-220": 60.0
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RS50N3413S8/AZ",
+        "consumption-127": 68.9
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RS50N3413S8/BZ",
+        "consumption-220": 64.2
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RS65R5411M9/AZ",
+        "consumption-127": 54.7
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RS65R5411M9/BZ",
+        "consumption-220": 54.7
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RS65R5691M9/AZ",
+        "consumption-127": 59.2
+    },
+    {
+        "manufacturer": "SAMSUNG",
+        "brand": "Samsung",
+        "model": "RS65R5691M9/BZ",
+        "consumption-220": 59.2
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "RCFB21",
+        "consumption-127": 19.8
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "RCFB22",
+        "consumption-220": 23.1
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "RCFC41",
+        "consumption-127": 38.7
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "RCFC42",
+        "consumption-220": 36.6
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "RCFA31",
+        "consumption-127": 31.8
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "RCFA32",
+        "consumption-220": 32.2
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "RCFB31",
+        "consumption-127": 41.0
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "RCFB32",
+        "consumption-220": 35.9
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "RCFA11",
+        "consumption-127": 25.7
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "RCFA12",
+        "consumption-220": 20.9
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "CFA10",
+        "consumption-127": 19.8,
+        "consumption-220": 23.1
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "CBA10",
+        "consumption-127": 20.8,
+        "consumption-220": 17.5
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "MRC06B1",
+        "consumption-127": 12.0
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "MRC06B2",
+        "consumption-220": 14.5
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "MRC08",
+        "consumption-127": 13.8,
+        "consumption-220": 13.0
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "MRC10B1",
+        "consumption-127": 14.2
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "MRC10B2",
+        "consumption-220": 14.1
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "MRC12B1",
+        "consumption-127": 14.6
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "MRC12B2",
+        "consumption-220": 14.3
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "MRV10",
+        "consumption-127": 16.2,
+        "consumption-220": 13.6
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "MD-RS587FGA",
+        "consumption-127": 55.0,
+        "consumption-220": 50.2
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "MD-RF556FGA",
+        "consumption-127": 49.0,
+        "consumption-220": 46.2
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Toshiba",
+        "model": "GR-RF646WEPMA",
+        "consumption-127": 59.9,
+        "consumption-220": 58.2
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "MD-RT453FGA041",
+        "consumption-127": 44.6
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "MD-RT453FGA042",
+        "consumption-220": 42.0
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "MD-RT507FGA041",
+        "consumption-127": 52.4
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "MD-RT507FGA042",
+        "consumption-220": 46.1
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "MD-RT468MTA041",
+        "consumption-127": 41.0
+    },
+    {
+        "manufacturer": "SPRINGER CARRIER LTDA",
+        "brand": "Midea",
+        "model": "MD-RT468MTA042",
+        "consumption-220": 34.8
+    },
+    {
+        "manufacturer": "TECNO SUD AMERICA",
+        "brand": "TECNO",
+        "model": "TR45FXDA",
+        "consumption-127": 50.1,
+        "consumption-220": 50.1
+    },
+    {
+        "manufacturer": "TECNO SUD AMERICA",
+        "brand": "TECNO",
+        "model": "TR54FXDA",
+        "consumption-127": 41.5,
+        "consumption-220": 41.5
+    },
+    {
+        "manufacturer": "TECNO SUD AMERICA",
+        "brand": "TECNO",
+        "model": "TR65FXDA",
+        "consumption-127": 43.2,
+        "consumption-220": 43.2
+    },
+    {
+        "manufacturer": "TECNO SUD AMERICA",
+        "brand": "TECNO",
+        "model": "TR30BXDA",
+        "consumption-127": 26.8,
+        "consumption-220": 26.8
+    },
+    {
+        "manufacturer": "TECNO SUD AMERICA",
+        "brand": "BERTAZZONI",
+        "model": "REF90X",
+        "consumption-127": 50.7,
+        "consumption-220": 50.7
+    },
+    {
+        "manufacturer": "TECNO SUD AMERICA",
+        "brand": "BERTAZZONI",
+        "model": "REF90X2",
+        "consumption-127": 50.7,
+        "consumption-220": 50.7
+    },
+    {
+        "manufacturer": "TECNO SUD AMERICA",
+        "brand": "BERTAZZONI",
+        "model": "REF75PIXL",
+        "consumption-127": 37.3,
+        "consumption-220": 37.3
+    },
+    {
+        "manufacturer": "TECNO SUD AMERICA",
+        "brand": "BERTAZZONI",
+        "model": "REF75PIXR",
+        "consumption-127": 37.3,
+        "consumption-220": 37.3
+    },
+    {
+        "manufacturer": "TECNO SUD AMERICA",
+        "brand": "BERTAZZONI",
+        "model": "REF75PRL",
+        "consumption-127": 37.3,
+        "consumption-220": 37.3
+    },
+    {
+        "manufacturer": "TECNO SUD AMERICA",
+        "brand": "BERTAZZONI",
+        "model": "REF75PRR",
+        "consumption-127": 37.3,
+        "consumption-220": 37.3
+    },
+    {
+        "manufacturer": "TECNO SUD AMERICA",
+        "brand": "BERTAZZONI",
+        "model": "REF90PIXL",
+        "consumption-127": 39.1,
+        "consumption-220": 39.1
+    },
+    {
+        "manufacturer": "TECNO SUD AMERICA",
+        "brand": "BERTAZZONI",
+        "model": "REF90PIXR",
+        "consumption-127": 39.1,
+        "consumption-220": 39.1
+    },
+    {
+        "manufacturer": "TECNO SUD AMERICA",
+        "brand": "BERTAZZONI",
+        "model": "REF90PRL",
+        "consumption-127": 39.1,
+        "consumption-220": 39.1
+    },
+    {
+        "manufacturer": "TECNO SUD AMERICA",
+        "brand": "BERTAZZONI",
+        "model": "REF90PRR",
+        "consumption-127": 39.1,
+        "consumption-220": 39.1
+    },
+    {
+        "manufacturer": "TECNO SUD AMERICA",
+        "brand": "BERTAZZONI",
+        "model": "REF36FDFIXNV",
+        "consumption-127": 43.2,
+        "consumption-220": 43.2
+    },
+    {
+        "manufacturer": "VENAX ELETRODOMÉSTICOS LTDA",
+        "brand": "Venax",
+        "model": "NGV 10",
+        "consumption-127": 18.0,
+        "consumption-220": 18.0
+    },
+    {
+        "manufacturer": "VIKING RANGE, LLC",
+        "brand": "Viking Range",
+        "model": "VCFB5303",
+        "consumption-127": 108.0
+    },
+    {
+        "manufacturer": "VIKING RANGE, LLC",
+        "brand": "Viking Range",
+        "model": "FDFB5303",
+        "consumption-127": 108.0
+    },
+    {
+        "manufacturer": "VIKING RANGE, LLC",
+        "brand": "Viking Range",
+        "model": "VCFB5363",
+        "consumption-127": 64.0
+    },
+    {
+        "manufacturer": "VIKING RANGE, LLC",
+        "brand": "Viking Range",
+        "model": "FDFB5363",
+        "consumption-127": 64.0
+    },
+    {
+        "manufacturer": "VIKING RANGE, LLC",
+        "brand": "Viking Range",
+        "model": "VCRB5303",
+        "consumption-127": 33.3
+    },
+    {
+        "manufacturer": "VIKING RANGE, LLC",
+        "brand": "Viking Range",
+        "model": "FDRB5303",
+        "consumption-127": 33.3
+    },
+    {
+        "manufacturer": "VIKING RANGE, LLC",
+        "brand": "Viking Range",
+        "model": "VCRB5363",
+        "consumption-127": 31.1
+    },
+    {
+        "manufacturer": "VIKING RANGE, LLC",
+        "brand": "Viking Range",
+        "model": "FDRB5363",
+        "consumption-127": 31.1
+    },
+    {
+        "manufacturer": "VIKING RANGE, LLC",
+        "brand": "Viking Range",
+        "model": "VCBB5363",
+        "consumption-127": 61.2
+    },
+    {
+        "manufacturer": "VIKING RANGE, LLC",
+        "brand": "Viking Range",
+        "model": "FDBB5363",
+        "consumption-127": 61.2
+    },
+    {
+        "manufacturer": "VIKING RANGE, LLC",
+        "brand": "Viking Range",
+        "model": "VCSB5423",
+        "consumption-127": 61.3
+    },
+    {
+        "manufacturer": "VIKING RANGE, LLC",
+        "brand": "Viking Range",
+        "model": "FDSB5423",
+        "consumption-127": 61.3
+    },
+    {
+        "manufacturer": "VIKING RANGE, LLC",
+        "brand": "Viking Range",
+        "model": "VCSB5483",
+        "consumption-127": 101.1
+    },
+    {
+        "manufacturer": "VIKING RANGE, LLC",
+        "brand": "Viking Range",
+        "model": "FDSB5483",
+        "consumption-127": 101.1
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRA08",
+        "consumption-127": 16.8,
+        "consumption-220": 16.8
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRC12 ",
+        "consumption-127": 19.0,
+        "consumption-220": 19.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRE57 ",
+        "consumption-127": 59.0,
+        "consumption-220": 59.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRE58 ",
+        "consumption-127": 69.0,
+        "consumption-220": 69.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRE59 ",
+        "consumption-127": 54.0,
+        "consumption-220": 54.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRE80",
+        "consumption-127": 68.0,
+        "consumption-220": 68.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRE85A",
+        "consumption-127": 68.0,
+        "consumption-220": 68.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRH85A",
+        "consumption-127": 62.2,
+        "consumption-220": 62.2
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRH86A",
+        "consumption-127": 62.2,
+        "consumption-220": 62.2
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRM44",
+        "consumption-127": 54.0,
+        "consumption-220": 54.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRM45 ",
+        "consumption-127": 54.0,
+        "consumption-220": 54.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRM45J",
+        "consumption-127": 48.8,
+        "consumption-220": 48.8
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRM53",
+        "consumption-127": 57.0,
+        "consumption-220": 57.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRM54",
+        "consumption-127": 57.0,
+        "consumption-220": 57.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRM54J",
+        "consumption-127": 51.4,
+        "consumption-220": 51.4
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRM56",
+        "consumption-127": 65.0,
+        "consumption-220": 65.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRM56B",
+        "consumption-127": 52.4,
+        "consumption-220": 52.4
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRM56Z",
+        "consumption-127": 62.0,
+        "consumption-220": 62.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRM57",
+        "consumption-127": 69.0,
+        "consumption-220": 69.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRM58",
+        "consumption-127": 69.0,
+        "consumption-220": 69.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRM59",
+        "consumption-127": 66.0,
+        "consumption-220": 66.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRO80",
+        "consumption-127": 72.7,
+        "consumption-220": 72.7
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRO81",
+        "consumption-127": 72.7,
+        "consumption-220": 72.7
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRO85A",
+        "consumption-127": 56.6,
+        "consumption-220": 56.6
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRO90",
+        "consumption-127": 65.0,
+        "consumption-220": 65.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRS62",
+        "consumption-127": 67.0,
+        "consumption-220": 67.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRS75",
+        "consumption-127": 72.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRY59",
+        "consumption-127": 63.0,
+        "consumption-220": 63.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BRY59C",
+        "consumption-127": 44.4,
+        "consumption-220": 44.4
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BVG24",
+        "consumption-127": 53.0,
+        "consumption-220": 53.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BVR28",
+        "consumption-127": 55.0,
+        "consumption-220": 55.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "BVR28N",
+        "consumption-127": 46.2,
+        "consumption-220": 46.2
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CHA22",
+        "consumption-127": 36.0,
+        "consumption-220": 36.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CHA22F",
+        "consumption-127": 33.6,
+        "consumption-220": 33.6
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CHA31",
+        "consumption-127": 46.2,
+        "consumption-220": 46.2
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CHA31F",
+        "consumption-127": 43.3,
+        "consumption-220": 43.3
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CHB42",
+        "consumption-127": 58.3,
+        "consumption-220": 58.3
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CHB42F",
+        "consumption-127": 54.7,
+        "consumption-220": 54.7
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CHB53",
+        "consumption-127": 72.1,
+        "consumption-220": 72.1
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRA30",
+        "consumption-127": 24.3,
+        "consumption-220": 24.3
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRB36",
+        "consumption-127": 35.5,
+        "consumption-220": 35.5
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRB39",
+        "consumption-127": 36.6,
+        "consumption-220": 36.6
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRC08",
+        "consumption-127": 16.8,
+        "consumption-220": 16.8
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRC12",
+        "consumption-127": 19.0,
+        "consumption-220": 19.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRD36",
+        "consumption-127": 43.5,
+        "consumption-220": 43.5
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRD37",
+        "consumption-127": 43.5,
+        "consumption-220": 43.5
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRD46",
+        "consumption-127": 53.8,
+        "consumption-220": 53.8
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRD49",
+        "consumption-127": 58.0,
+        "consumption-220": 58.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRE44",
+        "consumption-127": 58.0,
+        "consumption-220": 58.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRE44B",
+        "consumption-127": 52.9,
+        "consumption-220": 52.9
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRM35",
+        "consumption-127": 41.2,
+        "consumption-220": 41.2
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRM38",
+        "consumption-127": 49.1,
+        "consumption-220": 49.1
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRM39",
+        "consumption-127": 49.1,
+        "consumption-220": 49.1
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRM42",
+        "consumption-127": 55.8,
+        "consumption-220": 55.8
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRM43",
+        "consumption-127": 55.8,
+        "consumption-220": 55.8
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRM43Z",
+        "consumption-127": 52.0,
+        "consumption-220": 52.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRM44A",
+        "consumption-127": 56.2,
+        "consumption-220": 56.2
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRM45",
+        "consumption-127": 52.5,
+        "consumption-220": 52.5
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRM50H",
+        "consumption-127": 53.2,
+        "consumption-220": 53.2
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRM51",
+        "consumption-127": 52.5,
+        "consumption-220": 52.5
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRM52",
+        "consumption-127": 52.5,
+        "consumption-220": 52.5
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRM54",
+        "consumption-127": 56.0,
+        "consumption-220": 56.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRM55",
+        "consumption-127": 56.0,
+        "consumption-220": 56.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CRM56",
+        "consumption-127": 56.5,
+        "consumption-220": 56.5
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CVT10",
+        "consumption-127": 35.0,
+        "consumption-220": 35.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CVU18",
+        "consumption-127": 37.0,
+        "consumption-220": 37.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CVU20",
+        "consumption-127": 38.2,
+        "consumption-220": 38.2
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CVU26",
+        "consumption-127": 41.2,
+        "consumption-220": 41.2
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CVU26F",
+        "consumption-127": 37.0,
+        "consumption-220": 37.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CVU26Z ",
+        "consumption-127": 39.2,
+        "consumption-220": 39.2
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CVU30",
+        "consumption-127": 46.0,
+        "consumption-220": 46.0
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "CONSUL",
+        "model": "CVU30F",
+        "consumption-127": 37.3,
+        "consumption-220": 37.3
+    },
+    {
+        "manufacturer": "WHIRLPOOL",
+        "brand": "BRASTEMP",
+        "model": "GRO80",
+        "consumption-127": 72.7,
+        "consumption-220": 72.7
+    },
+    {
+        "manufacturer": "ZHONGSHAN GALANZ CONSUMER ELECTRIC APPLIANCES CO., LTD.",
+        "brand": "Galanz",
+        "model": "GFb07C01A-Ix220GFb07C01A-Pt220GFb07C01A-Br220GFb07C01A-Ix127GFb07C01A-Pt127GFb07C01A-Br127",
+        "consumption-127": 14.0,
+        "consumption-220": 13.5
+    },
+    {
+        "manufacturer": "ZHONGSHAN GALANZ CONSUMER ELECTRIC APPLIANCES CO., LTD.",
+        "brand": "Galanz",
+        "model": "GFb04C01A-Ix220GFb04C01A-Pt220GFb04C01A-Br220GFb04C01A-Ix127GFb04C01A-Pt127GFb04C01A-Br127",
+        "consumption-127": 15.2,
+        "consumption-220": 12.8
+    }
+]
