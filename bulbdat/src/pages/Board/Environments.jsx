@@ -1,28 +1,38 @@
 import React from 'react';
-import { Layout } from 'antd';
-import SideMenu from '../../components/SideMenu';
-import HeaderBoard from '../../components/HeaderBoard';
+import { Breadcrumb, Layout } from 'antd';
+import { Content } from 'antd/es/layout/layout';
+import HeaderBoard from './HeaderBoard';
 
 import devices from './databaseFake.js';
 import CardItem from '../../components/CardItem';
+import HomeBoard from './HomeBoard';
 
 export default function Environments() {
     const items = devices;
 
     return (
-        <Layout className="min-h-screen">
-            <SideMenu />
-
-            <Layout className='w-full h-screen bg-lightGreen p-5 overflow-y-scroll'>
-                <HeaderBoard title='Ambientes'/>
+        <HomeBoard>
+            {/* <Layout className='w-full h-screen bg-lightGreen p-5 overflow-y-scroll'>
+                <HeaderBoard title='Ambientes' />
 
                 <div className='grid grid-cols-3 gap-5'>
                     {items.map((item) => (
                         <CardItem item={item.name} />
                     ))}
                 </div>
-            </Layout>
 
-        </Layout>
+            </Layout> */}
+
+            <Layout className='w-full h-screen bg-lightGreen p-5 overflow-y-scroll px-6'>
+                <Breadcrumb className='my-4 text-xl'>
+                    <Breadcrumb.Item>Ambientes</Breadcrumb.Item>
+                </Breadcrumb>
+                <Content className='border grid grid-cols-3 gap-5 p-6'>
+                    {items.map((item) => (
+                        <CardItem item={item.name} />
+                    ))}
+                </Content>
+            </Layout>
+        </HomeBoard>
     );
 }
