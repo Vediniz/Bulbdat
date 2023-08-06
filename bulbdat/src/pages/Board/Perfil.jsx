@@ -1,7 +1,6 @@
 import React from 'react';
 import { Layout } from 'antd';
 import SideMenu from './SideMenu';
-import HeaderBoard from './HeaderBoard';
 import Input from '../../components/Input';
 import Button from '../../components/Button';
 import Form from '../../components/Form';
@@ -12,7 +11,6 @@ export default function Perfil() {
             <SideMenu />
 
             <Layout className='w-full h-screen bg-lightGreen p-5'>
-                <HeaderBoard title='Perfil' button={false} />
 
                 <div className='flex items-center justify-around h-full w-full'>
                     <div className='w-2/3 h-full border flex justify-center '>

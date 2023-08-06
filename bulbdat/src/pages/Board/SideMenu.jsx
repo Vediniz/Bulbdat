@@ -1,7 +1,8 @@
 import React from "react";
-import { Avatar, Menu, Layout } from 'antd';
+import { Avatar, Menu, Layout} from 'antd';
 import { Link, useLocation } from 'react-router-dom';
 import { UserOutlined } from '@ant-design/icons';
+import Button from "../../components/Button";
 
 const { Sider } = Layout;
 
@@ -10,7 +11,7 @@ export default function SideMenu() {
 
     return (
         <Sider className="h-[100vh] overflow-auto fixed left-0 top-0 bottom-0 flex flex-col items-center py-4">
-            <h1 className="text-3xl text-white h-1/6 mt-4">Bulbdat</h1>
+            <h1 className="text-xl text-white h-1/6 text-center">Bulbdat</h1>
             <div className='text-white flex flex-col items-center justify-center h-1/6'>
                 <Link to="/perfil" >
                     <Avatar className="border border-white" size={64} icon={<UserOutlined />} />
@@ -29,7 +30,7 @@ export default function SideMenu() {
                 </Menu.Item>
             </Menu>
             <div className='text-white flex flex-col items-center h-1/6'>
-                <h1>Sair</h1>
+                <Button>Sair</Button>
             </div>
         </Sider>
     )
