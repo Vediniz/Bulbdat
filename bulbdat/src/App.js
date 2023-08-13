@@ -5,6 +5,7 @@ import Home from "./pages/Home/Home";
 import Login from "./pages/Auth/Login";
 import Signup from "./pages/Auth/Signup";
 import Environments from "./pages/Board/Environments";
+// import Rooms from './pages/Board/Rooms';
 import Perfil from "./pages/Board/Perfil";
 import Dashboard from "./pages/Board/Dashboard";
 import Calculator from "./pages/Board/Calculator";
@@ -25,9 +26,14 @@ function App() {
                 <Route path="/perfil" element={<Perfil />} />
                 <Route path="/environments" element={<Environments />} />
                 <Route path="/calculator" element={<Calculator/>} />
+                {/* <Route path="/rooms" element={<Rooms />} /> */}
             </Routes>
         </BrowserRouter>
     );
 }
 
 export default App;
+
+
+
+

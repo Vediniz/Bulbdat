@@ -26,7 +26,7 @@ export default function Login(){
             );
             const {success, data} = response.data;
             if(success){
-                window.location.href = "/"
+                window.location.href = "/perfil"
                 console.log(response.data.message)
             }
             else{

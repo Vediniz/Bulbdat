@@ -1,5 +1,7 @@
 *** Settings ***
-Library    SeleniumLibrary
+Library     SeleniumLibrary
+Library     RequestsLibrary
+Library     JSONLibrary
 Resource    ../resource/resource.robot
 
 

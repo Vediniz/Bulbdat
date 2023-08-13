@@ -33,7 +33,7 @@ Open Site Domain
 
 
 Check login page
-    ${bt_login}     Replace String     ${ph_generic}     generic     Login
+    ${bt_login}     Replace String     ${ph_generic}     generic     Entrar
     Wait and Click Element    ${bt_login} 
     Wait Until Page Contains Element   ${tf_username}
     Log To Console    tf username is visible
@@ -42,7 +42,7 @@ Check login page
 
 Check signUp page
     Wait and Click Element     ${bt_home}
-    ${bt_signup}     Replace String     ${ph_generic}     generic     Sign up
+    ${bt_signup}     Replace String     ${ph_generic}     generic     Cadastrar
     Wait and Click Element     ${bt_signup}  
     Wait Until Page Contains Element   ${tf_username}
     Log To Console    tf username is visible
