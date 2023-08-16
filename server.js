@@ -8,6 +8,8 @@ const cookieParser = require("cookie-parser");
 const authRoute = require("./routes/authRoute");
 const dataRoute = require("./routes/dataRoute")
 const environmentRoute = require("./routes/environmentRoute");
+const roomRoute = require("./routes/roomRoute");
+
 
 app.listen(port, () => {
     console.log(`Server running in ${port}`);
@@ -35,3 +37,4 @@ app.use(express.json());
 app.use("/auth", authRoute);
 app.use("/data", dataRoute);
 app.use("/api/environments", environmentRoute);
+app.use("/api/rooms", roomRoute);
