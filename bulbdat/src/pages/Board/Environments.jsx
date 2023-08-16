@@ -5,6 +5,7 @@ import { Breadcrumb, Card, Layout, Modal, Form, Input, Button } from 'antd';
 import { Content } from 'antd/es/layout/layout';
 import HomeBoard from './HomeBoard';
 import { useDispatch } from "react-redux";
+
 // import { HideLoading, ShowLoading } from "../../redux/rootSlice";
 
 
@@ -25,13 +26,13 @@ export default function Environments() {
     const onFinish = async (values) => {
         try {
             const response = await axios.post(
-                "/api/environments/create-environments",
+                "http://localhost:5000/api/environments",
                 { name: values.name }
             );
-    
+
             console.log('API Response:', response.data);
-    
-            const { success, user, message } = response.data; 
+
+            const { success, user, message } = response.data;
             if (success) {
                 console.log(message);
                 console.log('User:', user);
@@ -43,23 +44,28 @@ export default function Environments() {
             // dispatch(HideLoading);
         }
     };
-    
-    
-    
+
+
+
     useEffect(() => {
         console.log('Buscando ambientes...');
-        axios.get('/api/environments')
-            .then(response => {
-                console.log('Resposta ao buscar ambientes:', response.data);
-                const environmentsData = response.data.environments || []; 
-                setEnvironments(environmentsData);
-            })
-            .catch(error => {
-                console.error('Erro ao buscar ambientes:', error);
-            });
+        try {
+
+            const response = axios.get('http://localhost:5000/api/environments/')
+            console.log(response)
+
+                .then(response => {
+                    console.log('Resposta ao buscar ambientes:', response.data);
+                    const environmentsData = response.data.environments || [];
+                    setEnvironments(environmentsData);
+                })
+        } catch (error) {
+            console.error('Erro ao buscar ambientes:', error);
+        }
+
     }, []);
-    
-    
+
+
 
     return (
         <HomeBoard>

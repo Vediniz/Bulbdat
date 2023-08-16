@@ -1,9 +1,23 @@
+const {
+    getEnvironments,
+    getEnvironment,
+    createEnvironment,
+    updateEnvironment,
+    deleteEnvironment
+} = require('../controllers/EnvironmentController'); 
+// const { userVerification } = require('../middlewares/AuthMiddleware');
+
 const router = require('express').Router();
-const {getUserEnvironments, createEnvironment}= require('../controllers/EnvironmentController'); 
-const { userVerification } = require('../middlewares/AuthMiddleware');
 
-router.get('/', userVerification, getUserEnvironments);
-router.post('/create-environments', userVerification, createEnvironment);
+router.get('/',  getEnvironments);
 
+router.get('/:id', getEnvironment)
+
+router.post('/', createEnvironment);
+
+
+router.delete('/:id', deleteEnvironment) 
+
+router.patch('/:id', updateEnvironment)
 
 module.exports = router;

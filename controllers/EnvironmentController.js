@@ -1,64 +1,92 @@
 const Environment = require('../models/EnvironmentModel');
+const mongoose = require('mongoose');
 
-// const createEnvironment = async (req, res, next) => {
-//   console.log('Entrou na função createEnvironment');
-//   console.log(req.body);
-//   try {
-//     const userId = req.user._id;
-//     const newEnvironment = new Environment({
-//       name: req.body.name,
-//       user: userId,
-//     });
+const getEnvironments = async (req, res) => {
+    try {
+        const environments = await Environment.find({}).sort({ createdAt: -1 });
+        res.status(200).json({ environments });
+    } catch (error) {
+        res.status(500).json({ error: 'Internal Server Error' });
+    }
+};
 
-//     const savedEnvironment = await newEnvironment.save();
+const getEnvironment = async (req, res) => {
+    const { id } = req.params;
 
-//     res.status(201).json({ success: true, message: 'Ambiente criado com sucesso!', environment: savedEnvironment });
-//   } catch (error) {
-//     console.error(error);
-//     res.status(500).json({ success: false, message: 'Erro ao criar o ambiente.', error: error.message });
-//   }
-// };
+    if (!mongoose.Types.ObjectId.isValid(id)) {
+        return res.status(404).json({ error: 'No such Environment' });
+    }
 
-const createEnvironment = async (req, res, next) => {
-  console.log('Entrou na função createEnvironment');
-  console.log('Req Body:', req.body);
-  try{
-    const userId = req.user._id; 
+    try {
+        const environment = await Environment.findById(id);
+
+        if (!environment) {
+            return res.status(404).json({ error: 'No such Environment' });
+        }
+
+        res.status(200).json({ environment });
+    } catch (error) {
+        res.status(500).json({ error: 'Internal Server Error' });
+    }
+};
+
+const createEnvironment = async (req, res) => {
     const { name } = req.body;
-    const existingEnvironment = await Environment.findOne({ name }) 
-    const environments = await Environment.find({ user: userId }).populate('room').exec();
-    if (existingEnvironment) {
-      return res.send({
-          success: false,
-          message: "User already exists",
+
+    try {
+        const environment = await Environment.create({ name });
+        res.status(200).json(environment);
+    } catch (error) {
+        res.status(400).json({ error: error.message });
+    }
+};
+
+const deleteEnvironment = async (req, res) => {
+    const { id } = req.params;
+
+    if (!mongoose.Types.ObjectId.isValid(id)) {
+        return res.status(404).json({ error: 'No such Environment' });
+    }
+
+    try {
+        const environment = await Environment.findOneAndDelete({ _id: id });
+
+        if (!environment) {
+            return res.status(400).json({ error: 'No such Environment' });
+        }
+
+        res.status(200).json(environment);
+    } catch (error) {
+        res.status(500).json({ error: 'Internal Server Error' });
+    }
+};
+
+const updateEnvironment = async (req, res) => {
+    const { id } = req.params;
+
+    if (!mongoose.Types.ObjectId.isValid(id)) {
+        return res.status(404).json({ error: 'No such Environment' });
+    }
+
+    try {
+        const environment = await Environment.findOneAndUpdate({ _id: id }, {
+            ...req.body
         });
-      }
-        const savedEnvironment = await newEnvironment.save();
-        console.log('Saved Environment:', savedEnvironment); 
-        
-      res.status(201).json({ success: true, message: 'Ambiente criado com sucesso!', environment: savedEnvironment });
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ success: false, message: 'Erro ao criar o ambiente.', error: error.message });
-  }
+
+        if (!environment) {
+            return res.status(400).json({ error: 'No such Environment' });
+        }
+
+        res.status(200).json(environment);
+    } catch (error) {
+        res.status(500).json({ error: 'Internal Server Error' });
+    }
 };
 
-
-
-const getUserEnvironments = async (req, res, next) => {
-  console.log('chegueeei')
-  try {
-    const userId = req.user._id; 
-    const environments = await Environment.find({ user: userId }).populate('room').exec();
-
-    res.status(200).json({ message: 'Ambientes do usuário recuperados com sucesso!', environments });
-  } catch (error) {
-    res.status(500).json({ error: 'Erro ao recuperar ambientes do usuário.' });
-  }
+module.exports = {
+    getEnvironments,
+    getEnvironment,
+    createEnvironment,
+    updateEnvironment,
+    deleteEnvironment,
 };
-
-module.exports ={
-  createEnvironment,
-  getUserEnvironments,
-  // createEnvironmentForTesting
-}

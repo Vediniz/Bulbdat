@@ -17,6 +17,4 @@ const environmentModel = new mongoose.Schema({
   // }
 });
 
-const Environment = mongoose.model('Environment', environmentModel);
-
-module.exports = Environment;
+module.exports = mongoose.model('Environment', environmentModel);
