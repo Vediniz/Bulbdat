@@ -9,7 +9,7 @@ __pycache__/
 migrations/
 *.pdf
 pdf_file/
-
+.env
 # Logs
 logs
 *.log
