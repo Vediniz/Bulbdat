@@ -127,6 +127,7 @@ const byUser = async(req, res) => {
                 title: environmentsItem.title,
                 description: environmentsItem.description,
                 name: environmentsItem.user.name,
+                username: environmentsItem.user.username
             }))
         })
     } catch (err) { res.status(500).send({ message: err.message }) }

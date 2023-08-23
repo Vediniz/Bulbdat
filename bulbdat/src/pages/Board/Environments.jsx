@@ -20,7 +20,7 @@ export default function Environments() {
   const onFinish = async (values) => {
     try {
         const response = await axios.post(
-            "api/environments",
+            "/environment",
             { name: values.name }
         );
 
@@ -48,7 +48,7 @@ export default function Environments() {
 useEffect(() => {
     console.log('Buscando ambientes...');
     try {
-      axios.get('/api/environments/') // Assuming this is the correct API endpoint
+      axios.get('/environment/byUser')
         .then(response => {
           console.log('Resposta ao buscar ambientes:', response.data);
           const environmentsData = response.data.environments || [];

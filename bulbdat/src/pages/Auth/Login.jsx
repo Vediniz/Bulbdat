@@ -14,7 +14,6 @@ export default function Login(){
     const [user, setUser] = useState({
         username:"",
         password:"",
-        email:"",
     });
     const dispatch = useDispatch();
     const login = async()=>{
