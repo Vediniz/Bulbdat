@@ -1,29 +1,48 @@
-const User = require("../models/UserModel");
-require("dotenv").config();
-const jwt = require("jsonwebtoken");
+import dotenv from 'dotenv';
+import userService from '../services/userService.js';
+import jwt from 'jsonwebtoken';
 
-module.exports.userVerification = async (req, res, next) => {
-  const token = req.cookies.token;
-  if (!token) {
-    return res.status(401).send({
-      message: "No token, authorization denied",
-      success: false,
-    });
-  }
-  jwt.verify(token, process.env.TOKEN_KEY, async (err, data) => {
-    if (err) {
-      return res
-        .status(401)
-        .send({ message: "Token is not valid", success: false });
-    } else {
-      const user = await User.findById(data.id);
-      if (user) {
-        return res.status(200).send({ success: true, user: user.username });
-      } else {
-        return res
-          .status(401)
-          .send({ message: "User not found", success: false });
-      }
+dotenv.config();
+
+export const authMiddleware = async (req, res, next) => {
+    try {
+        const { authorization } = req.headers;
+
+        if (!authorization) {
+            return res.status(401).send({ message: "Unauthorized" });
+        }
+
+        const parts = authorization.split(" ");
+
+        const [schema, token] = parts;
+
+        if (parts.length !== 2) {
+            return res.status(401).send({ message: "Unauthorized" });
+        }
+
+        if (schema !== "Bearer") {
+            return res.status(401).send({ message: "Unauthorized" });
+        }
+
+        try {
+            const decoded = jwt.verify(token, process.env.SECRET_JWT);
+
+            if (!decoded || !decoded.id) {
+                return res.status(401).send({ message: "Invalid Token" });
+            }
+
+            const user = await userService.findByIdService(decoded.id);
+
+            if (!user || !user.id) {
+                return res.status(401).send({ message: "Invalid Token" });
+            }
+
+            req.userId = user._id;
+            next();
+        } catch (error) {
+            return res.status(401).send({ message: "Token invalid" });
+        }
+    } catch (err) {
+        res.status(500).send({ message: err.message });
     }
-  });
 };

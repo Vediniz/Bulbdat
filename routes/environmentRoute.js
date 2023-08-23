@@ -1,23 +1,21 @@
-const {
-    getEnvironments,
-    getEnvironment,
-    createEnvironment,
-    updateEnvironment,
-    deleteEnvironment
-} = require('../controllers/EnvironmentController'); 
-// const { userVerification } = require('../middlewares/AuthMiddleware');
+import express from 'express'
+const router = express.Router();
 
-const router = require('express').Router();
+import {create, findAll, topEnvironments, findById, searchByTitle, byUser} from '../controllers/EnvironmentController.js'
+import {authMiddleware} from '../middlewares/AuthMiddleware.js'
 
-router.get('/',  getEnvironments);
+router.post("/", authMiddleware, create)
+router.get("/", findAll)
+router.get("/top", topEnvironments)
+router.get("/search", searchByTitle)
+router.get("/byUser", authMiddleware, byUser)
 
-router.get('/:id', getEnvironment)
-
-router.post('/', createEnvironment);
+router.get("/:id", authMiddleware, findById)
 
 
-router.delete('/:id', deleteEnvironment) 
 
-router.patch('/:id', updateEnvironment)
+// router.delete('/:id', deleteEnvironment) 
 
-module.exports = router;
+// router.patch('/:id', updateEnvironment)
+
+export default router

@@ -1,40 +1,26 @@
-const express = require("express");
-require("dotenv").config();
-const dbConfig = require("./config/dbConfig");
-const app = express();
-const port = process.env.PORT || 5000;
-const cors = require("cors");
-const cookieParser = require("cookie-parser");
-const authRoute = require("./routes/authRoute");
-const dataRoute = require("./routes/dataRoute")
-const environmentRoute = require("./routes/environmentRoute");
-const roomRoute = require("./routes/roomRoute");
+import express from 'express'
+import dotenv from "dotenv"
+import connectedDB from "./config/dbConfig.js"
 
+import userRoute from "./routes/userRoute.js"
+import authRoute from "./routes/authRoute.js"
+import environmentRoute from "./routes/environmentRoute.js"
 
-app.listen(port, () => {
-    console.log(`Server running in ${port}`);
-});
+dotenv.config()
 
+const app = express()
+const port = process.env.PORT || 3000
+
+connectedDB()
 app.use(express.json())
+app.use("/user", userRoute)
+app.use("/auth", authRoute)
+app.use("/environment", environmentRoute)
 
-app.get('/', (req, res) => res.json({mssg: 'Hello world!'}));
-
-app.use(cors({
-    origin: "http://localhost:3000",
-    methods: ["GET", "POST", "PUT", "DELETE"],
-    allowedHeaders: ["Content-Type", "Authorization"],
-    credentials: true
-}));
+app.listen(port, () => console.log(`Server running on port ${port}`))
 
 app.use((req, res, next) => {
     console.log(req.path, req.method);
     next();
 });
-
-
-app.use(cookieParser());
-app.use(express.json());
-app.use("/auth", authRoute);
-app.use("/data", dataRoute);
-app.use("/api/environments", environmentRoute);
-app.use("/api/rooms", roomRoute);
+// app.use("/api/rooms", roomRoute);

@@ -1,92 +1,141 @@
-const Environment = require('../models/EnvironmentModel');
-const mongoose = require('mongoose');
+import { createService, findAllService, countEnvironments, topEnvironmentsService, findByIdService, searchByTitleService, byUserService } from '../services/environmentsService.js'
 
-const getEnvironments = async (req, res) => {
+const create = async (req, res) => {
     try {
-        const environments = await Environment.find({}).sort({ createdAt: -1 });
-        res.status(200).json({ environments });
-    } catch (error) {
-        res.status(500).json({ error: 'Internal Server Error' });
-    }
-};
+        const { title, description } = req.body
 
-const getEnvironment = async (req, res) => {
-    const { id } = req.params;
+        if (!title || !description ) {
+            res.status(400).send({ message: "Submit all fields for registration" })
+        }
+        await createService(
+            {
+                title,
+                description,
+                user: req.userId,
+            }
+        )
+        res.send(201)
+    } catch (err) { res.status(500).send({ message: err.message }) }
+}
 
-    if (!mongoose.Types.ObjectId.isValid(id)) {
-        return res.status(404).json({ error: 'No such Environment' });
-    }
-
+const findAll = async (req, res) => {
     try {
-        const environment = await Environment.findById(id);
+        let { limit, offset } = req.query
+        limit = Number(limit)
+        offset = Number(offset)
 
-        if (!environment) {
-            return res.status(404).json({ error: 'No such Environment' });
+        if (!limit) {
+            limit = 2
+        }
+        if (!offset) {
+            offset = 0
         }
 
-        res.status(200).json({ environment });
-    } catch (error) {
-        res.status(500).json({ error: 'Internal Server Error' });
-    }
-};
+        const environments = await findAllService(offset, limit)
+        const total = await countEnvironments()
+        const currentUrl = req.baseUrl
 
-const createEnvironment = async (req, res) => {
-    const { name } = req.body;
+        const next = offset + limit
+        const nextUrl = next < total ? `${currentUrl}?limit=${limit}&offset=${next}` : null
 
-    try {
-        const environment = await Environment.create({ name });
-        res.status(200).json(environment);
-    } catch (error) {
-        res.status(400).json({ error: error.message });
-    }
-};
+        const previous = offset - limit < 0 ? null : offset - limit
+        const previousUrl = previous != null ? `${currentUrl}?limit=${limit}&offset=${previous}` : null
 
-const deleteEnvironment = async (req, res) => {
-    const { id } = req.params;
 
-    if (!mongoose.Types.ObjectId.isValid(id)) {
-        return res.status(404).json({ error: 'No such Environment' });
-    }
-
-    try {
-        const environment = await Environment.findOneAndDelete({ _id: id });
-
-        if (!environment) {
-            return res.status(400).json({ error: 'No such Environment' });
+        if (environments.length === 0) {
+            return res.status(400).send({ message: "There are no environments", })
         }
+        res.send({
+            nextUrl,
+            previousUrl,
+            limit,
+            offset,
+            total,
+            results: environments.map(environmentsItem => ({
+                id: environmentsItem._id,
+                title: environmentsItem.title,
+                name: environmentsItem.user.name,
+                username: environmentsItem.user.username,
+            }))
+        })
+    } catch (err) { res.status(500).send({ message: err.message }) }
 
-        res.status(200).json(environment);
-    } catch (error) {
-        res.status(500).json({ error: 'Internal Server Error' });
-    }
-};
+}
 
-const updateEnvironment = async (req, res) => {
-    const { id } = req.params;
-
-    if (!mongoose.Types.ObjectId.isValid(id)) {
-        return res.status(404).json({ error: 'No such Environment' });
-    }
-
+const topEnvironments = async (req, res) => {
     try {
-        const environment = await Environment.findOneAndUpdate({ _id: id }, {
-            ...req.body
-        });
-
-        if (!environment) {
-            return res.status(400).json({ error: 'No such Environment' });
+        const environments = await topEnvironmentsService();
+        if (!environments) {
+            return res.status(400).send({ message: "There is no registeted post" })
         }
+        res.send({
+            environments: {
+                id: environments._id,
+                title: environments.title,
+                description: environments.description,
+                name: environments.user.name,
+                username: environments.user.username,
+            }
+        })
+    } catch (err) { res.status(500).send({ message: err.message }) }
 
-        res.status(200).json(environment);
-    } catch (error) {
-        res.status(500).json({ error: 'Internal Server Error' });
-    }
-};
+}
 
-module.exports = {
-    getEnvironments,
-    getEnvironment,
-    createEnvironment,
-    updateEnvironment,
-    deleteEnvironment,
-};
+const findById = async (req, res) => {
+    try {
+        const { id } = req.params
+        const environments = await findByIdService(id)
+        return res.send({
+            environments: {
+                id: environments._id,
+                title: environments.title,
+                description: environments.description,
+                name: environments.user.name,
+            }
+        })
+    } catch (err) { res.status(500).send({ message: err.message }) }
+}
+
+
+const searchByTitle = async (req, res) => {
+    try {
+        const { title } = req.query
+        const environments = await searchByTitleService(title)
+
+        if(environments.length === 0) {
+            return res.status(400).send({message: 'There are no posts with this title'})
+        }
+        return res.send({
+            results: environments.map(environmentsItem => ({
+                id: environmentsItem._id,
+                title: environmentsItem.title,
+                description: environmentsItem.description,
+                name: environmentsItem.user.name,
+            }))
+        })
+    } catch (err) { res.status(500).send({ message: err.message }) }
+}
+
+const byUser = async(req, res) => {
+    try{
+        const id = req.userId
+        const environments = await byUserService(id)
+
+        return res.send({
+            results: environments.map(environmentsItem => ({
+                id: environmentsItem._id,
+                title: environmentsItem.title,
+                description: environmentsItem.description,
+                name: environmentsItem.user.name,
+            }))
+        })
+    } catch (err) { res.status(500).send({ message: err.message }) }
+}
+export {
+    create,
+    findAll,
+    topEnvironments,
+    findById,
+    searchByTitle,
+    byUser
+}

@@ -1,17 +1,7 @@
-const mongoose = require("mongoose");
-mongoose.connect(process.env.MONGO_URL,
-  {
-      useNewUrlParser: true,
-      useUnifiedTopology: true
-  })
-  
-const connection = mongoose.connection;
-connection.on("error", () => {
-  console.log("Error connecting to database.");
-});
+import mongoose  from 'mongoose'
+const connectDatabase = () => {
+    console.log("Wait Connecting to the database")
 
-connection.on("connected", () => {
-  console.log("MongoDB connection successful.");
-});
+    mongoose.connect(process.env.MONGO_URL, {useNewUrlParser: true, useUnifiedTopology: true}).then(() => console.log("Mongo Connected")).catch((error) => console.log(error))}
 
-module.exports = connection ;
+export default  connectDatabase

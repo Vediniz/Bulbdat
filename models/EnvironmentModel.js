@@ -1,20 +1,31 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose'
 
-const environmentModel = new mongoose.Schema({
-  name: { 
-    type: String, 
-    required: true 
-  },
-  // rooms: [
-  //   { 
-  //     type: mongoose.Schema.Types.ObjectId, 
-  //     ref: 'Room' 
-  //   }],
-  // user: { 
-  //   type: mongoose.Schema.Types.ObjectId, 
-  //   ref: 'User', 
-  //   required: true 
-  // }
-});
+const EnvironmentsSchema = new mongoose.Schema({
+    title: {
+        type: String,
+        require: true,
+    },
+    description:{
+        type: String,
+        require: true,
+    },
+    // banner:{
+    //     type:String,
+    //     require: true,
+    // },
+    createdAt:{
+        type: Date,
+        default: Date.now(),
+    },
+    user:{
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "User",
+        required: true,
+    },
 
-module.exports = mongoose.model('Environment', environmentModel);
+})
+
+
+const Environments = mongoose.model('Environments', EnvironmentsSchema)
+
+export default Environments

@@ -53,7 +53,7 @@ export default function Login(){
                 </StyledImg>
 
                 <Form>
-                    <h1 className="text-2xl font-bold text-white mb-4">Login</h1>
+                    <h1 className="text-2xl font-bold text-white mb-4">Entrar</h1>
                     <Input type="text" value={user.username} name="username" id="username" placeholder="Usuário" onChange={(e)=>setUser({...user, username:e.target.value})}/>
                     <Input type="password" value={user.password} name="password" id="password" placeholder="Senha" onChange={(e)=>setUser({...user, password:e.target.value})}/>
                     <Button onClick={login}>Entrar</Button>

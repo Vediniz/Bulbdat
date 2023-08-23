@@ -1,12 +1,8 @@
-const router = require("express").Router()
-const User = require("../models/UserModel")
-const { createSecretToken } = require("../config/SecretToken")
-const bcrypt = require("bcrypt")
-const { userVerification } = require("../middlewares/AuthMiddleware")
-const { loginController, signupController } = require("../controllers/AuthControllers")
+import {Router} from 'express'
 
-router.post("/login", loginController)
-router.post("/signup", signupController)
+const router = Router()
 
+import { login } from '../controllers/AuthControllers.js'
+router.post('/', login)
 
-module.exports = router
+export default router 
